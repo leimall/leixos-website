@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "首页",
+    "features": "产品功能",
+    "solutions": "解决方案",
+    "about": "关于我们",
+    "news": "新闻中心",
+    "contact": "合作咨询",
+    "freeTrial": "免费试用"
+  },
+  "hero": {
+    "title": "LeiMall - AI驱动的全球跨境电商SaaS平台",
+    "subtitle": "3分钟搭建独立站 · AI全链路运营 · 一键卖遍200+国家和地区",
+    "cta": "免费试用",
+    "watchDemo": "观看演示",
+    "governmentBar": "✦ 呈贡数字化小镇重点培育项目 ✦ 依托中老铁路物流大通道 ✦ 面向南亚东南亚辐射中心"
+  },
+  "metrics": {
+    "investment": "项目总投资",
+    "period": "建设周期",
+    "coverage": "覆盖国家和地区",
+    "merchants": "预计服务全球商家",
+    "exports": "预计带动出口额",
+    "talents": "跨境人才培育规模"
+  },
+  "about": {
+    "title": "为中小企业打造的全球出海基础设施",
+    "description1": "LeiMall（leixos.com）是国内领先的AI驱动跨境电商多租户SaaS平台，作为昆明市呈贡数字化小镇重点培育项目，致力于为全球中小企业提供低成本、高效率、智能化的一站式出海解决方案。",
+    "description2": "我们采用插件化微服务架构与预付费资金管控体系，整合全球主流支付、物流、营销资源，深度适配东南亚、欧美、中东等核心市场。依托云南面向南亚东南亚辐射中心区位优势与中老铁路物流大通道，我们打造了行业领先的东南亚专属解决方案，帮助中国企业特别是云南本土企业快速开拓全球市场。",
+    "southeastAsia": "东南亚首发重点市场",
+    "globalCoverage": "全球覆盖"
+  },
+  "features": {
+    "title": "五大核心优势，重新定义全球出海",
+    "subtitle": "技术创新+全球布局+区域深耕，打造差异化竞争优势",
+    "ai": {
+      "title": "AI全链路智能化",
+      "description": "从商品文案生成、智能客服到广告优化，AI赋能全运营流程，效率提升10倍，人力成本降低90%"
+    },
+    "global": {
+      "title": "全球市场一键覆盖",
+      "description": "支持200+国家和地区，20+种语言，100+种货币，一个后台管理全球所有店铺"
+    },
+    "southeastAsia": {
+      "title": "东南亚深度本地化",
+      "description": "依托中老铁路物流大通道，对接GrabPay、GoPay等本地支付，提供小语种专属服务"
+    },
+    "secure": {
+      "title": "安全透明预付费体系",
+      "description": "统一聚合全球支付与物流，所有费用实时扣除，全程可查可追溯，零坏账零垫资"
+    },
+    "plugins": {
+      "title": "插件化可扩展生态",
+      "description": "基础功能永久免费，高级功能按需订阅，持续迭代更新，满足企业不同发展阶段需求"
+    }
+  },
+  "solutions": {
+    "title": "全场景全球出海解决方案",
+    "viewAll": "查看全部 →",
+    "global": {
+      "title": "全球通用方案",
+      "description": "适合面向全球市场的中小企业，一键开通所有地区，统一管理全球业务",
+      "tag": "全球",
+      "learnMore": "了解更多 →"
+    },
+    "southeastAsia": {
+      "title": "东南亚专属方案",
+      "description": "深度本地化服务，中老铁路物流专线，最快3天送达，小语种专属运营支持",
+      "tag": "首发重点",
+      "learnMore": "了解更多 →"
+    },
+    "europe": {
+      "title": "欧美市场方案",
+      "description": "支持亚马逊、eBay多平台同步，欧美本地仓配送，先买后付支付支持",
+      "tag": "成熟市场",
+      "learnMore": "了解更多 →"
+    },
+    "factory": {
+      "title": "工厂出海",
+      "description": "跳过中间商，直达全球消费者，利润提升30%，打造自有品牌",
+      "tag": "源头工厂",
+      "learnMore": "了解更多 →"
+    },
+    "trader": {
+      "title": "贸易商转型",
+      "description": "多店铺统一管理，AI自动化运营，实时数据分析，效率翻倍",
+      "tag": "数字化升级",
+      "learnMore": "了解更多 →"
+    },
+    "brand": {
+      "title": "品牌DTC",
+      "description": "独立域名，私域流量沉淀，会员体系建设，实现长期品牌价值",
+      "tag": "品牌出海",
+      "learnMore": "了解更多 →"
+    }
+  },
+  "ecosystem": {
+    "title": "构建全球跨境数字产业生态",
+    "subtitle": "技术平台+产业服务+人才培育，助力呈贡数字化小镇建设",
+    "talents": "人才培育",
+    "supplyChain": "全球供应链",
+    "warehouses": "海外仓网络",
+    "partners": "全球合作伙伴"
+  },
+  "news": {
+    "title": "新闻中心",
+    "viewMore": "查看更多 →",
+    "project": "项目动态",
+    "regional": "区域动态",
+    "industry": "行业资讯",
+    "news1": "LeiMall正式申请纳入呈贡数字化小镇重点培育项目",
+    "news2": "LeiMall东南亚专属解决方案上线，中老铁路物流成本再降20%",
+    "news3": "2026年中国跨境电商进出口额突破2.3万亿元"
+  },
+  "partners": {
+    "title": "全球合作伙伴"
+  },
+  "cta": {
+    "title": "立即开启你的全球出海之旅",
+    "description": "现在注册即可享受3个月免费试用，前100名入驻商家赠送价值2999元AI出海大礼包+专属客户经理一对一服务！",
+    "cta": "立即免费注册"
+  },
+  "footer": {
+    "company": {
+      "name": "LeiMall 雷贸科技",
+      "description": "AI驱动的全球跨境电商SaaS平台，让中小企业卖遍全球",
+      "hotline": "全球招商热线：+86 871-XXXXXXX",
+      "email": "邮箱：contact@leixos.com",
+      "address": "总部地址：云南省昆明市呈贡区数字经济产业园"
+    },
+    "product": {
+      "title": "产品功能",
+      "ai": "AI全链路赋能",
+      "website": "全球建站系统",
+      "payment": "统一支付网关",
+      "logistics": "全球物流网络",
+      "compliance": "合规风控体系"
+    },
+    "solutions": {
+      "title": "解决方案",
+      "global": "全球通用方案",
+      "southeastAsia": "东南亚专属方案",
+      "europe": "欧美市场方案",
+      "factory": "工厂出海",
+      "trader": "贸易商转型",
+      "brand": "品牌DTC"
+    },
+    "follow": {
+      "title": "关注我们",
+      "hq": "中国总部：昆明呈贡",
+      "seaOffice": "东南亚办事处：泰国曼谷、越南胡志明市",
+      "qrcode": "二维码",
+      "scanHint": "扫码关注公众号，获取最新资讯"
+    },
+    "copyright": "© 2026 LeiMall 云南雷贸科技有限公司 版权所有 | 滇ICP备XXXXXXXX号"
+  }
+}

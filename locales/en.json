@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "solutions": "Solutions",
+    "about": "About",
+    "news": "News",
+    "contact": "Contact",
+    "freeTrial": "Free Trial"
+  },
+  "hero": {
+    "title": "LeiMall - AI-Powered Global Cross-Border E-Commerce SaaS Platform",
+    "subtitle": "Build independent site in 3 minutes · AI full-stack operation · Sell to 200+ countries and regions",
+    "cta": "Free Trial",
+    "watchDemo": "Watch Demo",
+    "governmentBar": "✦ Key Project of Chenggong Digital Town ✦ China-Laos Railway Logistics Corridor ✦ South & Southeast Asia Hub"
+  },
+  "metrics": {
+    "investment": "Total Investment",
+    "period": "Construction Period",
+    "coverage": "Countries & Regions Covered",
+    "merchants": "Expected Global Merchants",
+    "exports": "Expected Export Value",
+    "talents": "Annual Talent Training Scale"
+  },
+  "about": {
+    "title": "Global Infrastructure for SMEs to Go Global",
+    "description1": "LeiMall (leixos.com) is China's leading AI-powered cross-border e-commerce multi-tenant SaaS platform. As a key project of Kunming Chenggong Digital Town, we are committed to providing low-cost, efficient, intelligent one-stop global solutions for SMEs worldwide.",
+    "description2": "With a plug-in microservice architecture and prepaid fund management system, we integrate global mainstream payment, logistics, and marketing resources, deeply adapting to core markets like Southeast Asia, Europe, America, and the Middle East. Leveraging Yunnan's geographical advantage as South & Southeast Asia hub and China-Laos Railway logistics corridor, we have created industry-leading Southeast Asia-specific solutions to help Chinese enterprises, especially Yunnan local enterprises, rapidly explore global markets.",
+    "southeastAsia": "Southeast Asia First Launch Market",
+    "globalCoverage": "Global Coverage"
+  },
+  "features": {
+    "title": "Five Core Advantages, Redefining Global Expansion",
+    "subtitle": "Technology innovation + Global layout + Regional deepening, creating differentiated competitive advantages",
+    "ai": {
+      "title": "AI Full-Stack Intelligence",
+      "description": "From product copy generation, smart customer service to ad optimization, AI empowers entire operation process, 10x efficiency, 90% labor cost reduction"
+    },
+    "global": {
+      "title": "One-Click Global Market Coverage",
+      "description": "Support 200+ countries and regions, 20+ languages, 100+ currencies, manage all global stores from one dashboard"
+    },
+    "southeastAsia": {
+      "title": "Southeast Asia Deep Localization",
+      "description": "Leverage China-Laos Railway logistics corridor, integrate local payments like GrabPay, GoPay, provide minor language dedicated support"
+    },
+    "secure": {
+      "title": "Secure & Transparent Prepaid System",
+      "description": "Unified global payment and logistics aggregation, real-time deduction, full traceability, zero bad debt, zero upfront payment"
+    },
+    "plugins": {
+      "title": "Plug-in Extensible Ecosystem",
+      "description": "Basic features free forever, advanced features on-demand subscription, continuous iteration, meeting enterprise needs at different stages"
+    }
+  },
+  "solutions": {
+    "title": "Full-Scene Global Expansion Solutions",
+    "viewAll": "View All →",
+    "global": {
+      "title": "Global Solution",
+      "description": "Perfect for SMEs targeting global markets, one-click activation for all regions, unified global business management",
+      "tag": "Global",
+      "learnMore": "Learn More →"
+    },
+    "southeastAsia": {
+      "title": "Southeast Asia Exclusive",
+      "description": "Deep localization service, China-Laos Railway direct line, 3-day delivery, minor language dedicated operation support",
+      "tag": "First Launch",
+      "learnMore": "Learn More →"
+    },
+    "europe": {
+      "title": "Europe & America Solution",
+      "description": "Support Amazon, eBay multi-platform sync, EU & US local warehouses, BNPL payment support",
+      "tag": "Mature Market",
+      "learnMore": "Learn More →"
+    },
+    "factory": {
+      "title": "Factory Direct",
+      "description": "Skip middlemen, reach global consumers directly, 30% profit increase, build your own brand",
+      "tag": "Source Factory",
+      "learnMore": "Learn More →"
+    },
+    "trader": {
+      "title": "Trader Transformation",
+      "description": "Unified multi-store management, AI automated operation, real-time data analysis, double efficiency",
+      "tag": "Digital Upgrade",
+      "learnMore": "Learn More →"
+    },
+    "brand": {
+      "title": "Brand DTC",
+      "description": "Independent domain, private domain traffic accumulation, membership system, build long-term brand value",
+      "tag": "Brand Expansion",
+      "learnMore": "Learn More →"
+    }
+  },
+  "ecosystem": {
+    "title": "Building Global Cross-Border Digital Industry Ecosystem",
+    "subtitle": "Technology platform + Industry services + Talent cultivation, powering Chenggong Digital Town construction",
+    "talents": "Talent Cultivation",
+    "supplyChain": "Global Supply Chain",
+    "warehouses": "Overseas Warehouse Network",
+    "partners": "Global Partners"
+  },
+  "news": {
+    "title": "News Center",
+    "viewMore": "View More →",
+    "project": "Project Updates",
+    "regional": "Regional News",
+    "industry": "Industry News",
+    "news1": "LeiMall Officially Applies for Chenggong Digital Town Key Project Status",
+    "news2": "LeiMall Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced by Another 20%",
+    "news3": "China's Cross-Border E-Commerce Imports and Exports Exceed 2.3 Trillion Yuan in 2026"
+  },
+  "partners": {
+    "title": "Global Partners"
+  },
+  "cta": {
+    "title": "Start Your Global Journey Now",
+    "description": "Register now for 3 months free trial! First 100 merchants get AI global expansion package worth 2999 yuan + dedicated account manager one-on-one service!",
+    "cta": "Register for Free"
+  },
+  "footer": {
+    "company": {
+      "name": "LeiMall",
+      "description": "AI-powered global cross-border e-commerce SaaS platform, helping SMEs sell worldwide",
+      "hotline": "Global Hotline: +86 871-XXXXXXX",
+      "email": "Email: contact@leixos.com",
+      "address": "Headquarters: Digital Economy Industrial Park, Chenggong, Kunming, Yunnan, China"
+    },
+    "product": {
+      "title": "Product Features",
+      "ai": "AI Full-Stack Empowerment",
+      "website": "Global Website System",
+      "payment": "Unified Payment Gateway",
+      "logistics": "Global Logistics Network",
+      "compliance": "Compliance & Risk Control"
+    },
+    "solutions": {
+      "title": "Solutions",
+      "global": "Global Solution",
+      "southeastAsia": "Southeast Asia Exclusive",
+      "europe": "Europe & America Solution",
+      "factory": "Factory Direct",
+      "trader": "Trader Transformation",
+      "brand": "Brand DTC"
+    },
+    "follow": {
+      "title": "Follow Us",
+      "hq": "China HQ: Kunming, Chenggong",
+      "seaOffice": "Southeast Asia Offices: Bangkok, Thailand; Ho Chi Minh City, Vietnam",
+      "qrcode": "QR Code",
+      "scanHint": "Scan to follow our official account for latest news"
+    },
+    "copyright": "© 2026 LeiMall Yunnan Leimao Technology Co., Ltd. All Rights Reserved"
+  }
+}
