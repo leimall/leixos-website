@@ -127,8 +127,24 @@ wrangler pages deploy
 | **Framework preset** | `Nuxt.js` |
 | **Build command** | `npm run build` |
 | **Build output directory** | `.output/public` |
+| **Deploy command** | **留空（不填写任何内容）** |
 
-**重要**：确保不要手动设置部署命令（Deploy command），让 Cloudflare Pages 使用默认方式，不需要使用 `npx wrangler deploy`。
+**⚠️ 重要警告：Deploy command 必须留空！**
+
+这是一个常见的配置错误！请务必确保 Deploy command 字段保持为空，不要填写任何内容。
+
+#### 为什么不应该配置 Deploy command？
+
+1. **Cloudflare Pages 的设计理念**：Cloudflare Pages 会自动处理部署流程，在构建完成后将输出目录（`.output/public`）的内容直接部署到 CDN，不需要额外的部署命令。
+
+2. **避免双重部署**：如果配置了 Deploy command（如 `npx wrangler deploy`），会导致：
+   - Cloudflare Pages 先执行构建
+   - 然后又执行 Deploy command 进行第二次部署
+   - 造成不必要的重复操作和资源浪费
+
+3. **构建环境限制**：Cloudflare Pages 的构建环境不具备部署所需的完整权限，手动配置 Deploy command 通常会失败。
+
+4. **简化流程**：留空 Deploy command 可以让 Cloudflare Pages 使用其优化的部署流程，更加可靠和高效。
 
 ### 4.4 环境变量（可选）
 
@@ -149,9 +165,56 @@ NODE_VERSION=18
 
 连接 GitHub 后，每次推送到指定分支（如 `main`）都会触发自动部署。
 
+### 4.7 修复现有错误配置
+
+如果您之前已经配置了 Deploy command 并遇到部署问题，请按以下步骤修复：
+
+#### 步骤 1：进入 Cloudflare Pages 项目设置
+
+1. 登录 [Cloudflare 控制台](https://dash.cloudflare.com/)
+2. 在左侧菜单中选择 **Workers & Pages**
+3. 找到并点击您的 `leimall` 项目
+4. 点击顶部的 **Settings** 标签页
+
+#### 步骤 2：清空 Deploy command
+
+1. 在左侧菜单中选择 **Builds & deployments**
+2. 向下滚动到 **Build settings** 部分
+3. 点击 **Edit** 按钮（或编辑图标）
+4. 找到 **Deploy command** 字段
+5. 删除该字段中的所有内容，确保它完全为空
+6. 点击 **Save** 保存更改
+
+#### 步骤 3：重新部署
+
+1. 返回项目的 **Deployments** 标签页
+2. 点击最新的失败部署
+3. 点击 **Retry deployment** 按钮
+4. 或者等待下一次 Git 推送触发自动部署
+
+#### 验证修复是否成功
+
+修复后，您应该能在构建日志中看到：
+- 构建命令（Build command）正常执行
+- 构建成功完成
+- 部署流程自动完成，无需额外的部署命令
+
 ---
 
 ## 5. 常见问题解答
+
+### 5.0 最常见错误：Deploy command 配置错误
+
+**问题**：部署失败，提示与部署命令相关的错误，或者部署过程异常缓慢
+
+**原因**：这是最常见的配置错误！在 Cloudflare Pages 中配置了 Deploy command（如 `npx wrangler deploy`）
+
+**解决方案**：
+- 请按照本文档第 4.7 节"修复现有错误配置"的步骤操作
+- 清空 Deploy command 字段
+- 重新部署
+
+**重要提示**：Deploy command 必须保持为空，不要填写任何内容！
 
 ### 5.1 部署失败：构建命令错误
 
