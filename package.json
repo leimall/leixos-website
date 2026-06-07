@@ -8,7 +8,8 @@
     "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "deploy": "wrangler pages deploy .output/public --project-name=leimall"
+    "deploy": "npm run build && wrangler pages deploy",
+    "deploy:skip-build": "wrangler pages deploy"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
