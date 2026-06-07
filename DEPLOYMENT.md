@@ -14,7 +14,7 @@
 - 账号具有创建 Pages 项目的权限
 
 ### 1.2 本地开发环境
-- **Node.js**: 版本 ≥ 18.0.0
+- **Node.js**: 版本 20.x（推荐，已配置 .nvmrc）
 - **npm**: 版本 ≥ 8.0.0
 
 ### 1.3 Wrangler CLI
@@ -128,6 +128,8 @@ wrangler pages deploy
 | **Build command** | `npm run build` |
 | **Build output directory** | `.output/public` |
 
+**重要**：确保不要手动设置部署命令（Deploy command），让 Cloudflare Pages 使用默认方式，不需要使用 `npx wrangler deploy`。
+
 ### 4.4 环境变量（可选）
 
 如果项目需要环境变量，在 **Environment variables** 部分添加：
@@ -208,7 +210,33 @@ NODE_VERSION=18
 **解决方案：**
 - 确保本地使用 `npm run build && npm run preview` 测试生产版本
 - 检查 `nuxt.config.ts` 中的配置是否正确
-- 确认 `wrangler.toml` 中的 `build_output_dir` 配置为 `.output/public`
+- 确认构建输出目录为 `.output/public`
+
+### 5.7 npm ci 错误：package-lock.json 不同步
+
+**问题：** 部署时提示 "npm ci can only install packages when your package.json and package-lock.json are in sync"
+
+**解决方案：**
+1. 在本地删除旧的锁文件和依赖：
+   ```bash
+   rm -rf node_modules package-lock.json
+   ```
+2. 重新安装依赖：
+   ```bash
+   npm install --legacy-peer-deps
+   ```
+3. 测试构建：
+   ```bash
+   npm run build
+   ```
+4. 提交新的 package-lock.json 到 Git：
+   ```bash
+   git add package-lock.json
+   git commit -m "fix: regenerate package-lock.json for Cloudflare Pages"
+   git push
+   ```
+
+**说明：** 此错误是因为 Cloudflare Pages 使用 `npm ci` 进行严格安装，要求 package.json 和 package-lock.json 完全同步。
 
 ---
 

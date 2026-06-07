@@ -7,9 +7,7 @@
     "dev": "nuxt dev",
     "build": "nuxt build",
     "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "deploy": "npm run build && wrangler pages deploy",
-    "deploy:skip-build": "wrangler pages deploy"
+    "preview": "nuxt preview"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
