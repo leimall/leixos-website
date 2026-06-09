@@ -6,6 +6,9 @@
     "about": "About",
     "news": "News",
     "contact": "Contact",
+    "pricing": "Pricing",
+    "enterprise": "Enterprise",
+    "ecosystem": "Partners",
     "freeTrial": "Free Trial"
   },
   "hero": {
@@ -54,6 +57,1148 @@
       "description": "Basic features free forever, advanced features on-demand subscription, continuous iteration, meeting enterprise needs at different stages"
     }
   },
+  "featuresPage": {
+    "hero": {
+      "title": "Complete Multi-Tenant Cross-Border E-Commerce Platform Architecture",
+      "subtitle": "Based on Shopify/Shopline leading platform architecture, 6 clearly defined layers, fully compatible with OAuth2.0 authentication + hybrid multilingual framework, building enterprise-grade one-stop cross-border e-commerce solutions",
+      "cta": "Free Trial",
+      "layers": "Core Architecture Layers",
+      "modules": "Feature Modules",
+      "countries": "Countries Covered",
+      "merchants": "Merchants Served",
+      "efficiency": "Efficiency Boost",
+      "costReduction": "Cost Reduction"
+    },
+    "architectureOverview": {
+      "title": "Overall Architecture Layers",
+      "subtitle": "All modules are strictly divided into 6 layers, clearly defining the boundaries between 'platform shared' and 'tenant isolated' - the cornerstone for stable multi-tenant system operation",
+      "layer1": {
+        "title": "Open Platform & Ecosystem",
+        "tag": "Platform Shared",
+        "description": "Open APIs, application marketplace, developer ecosystem, supporting third-party apps and plugin extensions"
+      },
+      "layer2": {
+        "title": "Data Intelligence Layer",
+        "tag": "Platform Shared + Tenant Private",
+        "description": "AI large models, smart recommendations, data analytics, business intelligence"
+      },
+      "layer3": {
+        "title": "Platform Operations Management",
+        "tag": "Platform Admin Only",
+        "description": "Tenant management, global control, compliance & risk control, platform operation tools"
+      },
+      "layer4": {
+        "title": "Tenant Business Layer",
+        "tag": "Each Tenant Fully Isolated",
+        "description": "Store, product, order, customer, marketing, logistics, finance, data analytics"
+      },
+      "layer5": {
+        "title": "Consumer Layer",
+        "tag": "Shared Users + Business Isolation",
+        "description": "Shopping experience, user accounts, customer service & after-sales"
+      },
+      "layer6": {
+        "title": "Infrastructure Layer",
+        "tag": "Platform Shared, Required",
+        "description": "IAM authentication, i18n, multi-currency, multi-tenant, API gateway, message queue, cache, object storage"
+      }
+    },
+    "aiSection": {
+      "title": "AI Full-Stack Intelligence",
+      "subtitle": "Based on large language models and machine learning, providing comprehensive AI empowerment for your cross-border e-commerce business",
+      "copywriting": {
+        "title": "Smart Copy Generation",
+        "description": "One-click generation of multilingual product titles, descriptions, selling points, automatic SEO optimization, saving 90% copywriting time"
+      },
+      "customerService": {
+        "title": "AI Smart Customer Service",
+        "description": "7x24 hour multilingual customer service, automatic intent recognition, smart reply to common questions, 80% reduction in labor costs"
+      },
+      "adOptimization": {
+        "title": "Smart Ad Optimization",
+        "description": "Automatically optimize ad placement strategy based on real-time data, precisely target customers, ROI increase of over 200%"
+      },
+      "keyPoints": "AI Core Capabilities",
+      "point1": "Supports automatic translation and localization for 20+ languages",
+      "point2": "Smart product recommendation and personalized marketing",
+      "point3": "Real-time data analysis and prediction",
+      "point4": "Smart risk control and fraud detection"
+    },
+    "websiteSection": {
+      "title": "Global Website System",
+      "subtitle": "No technical background required, build a professional independent site in 3 minutes, supporting multilingual and multi-currency",
+      "multilingual": {
+        "title": "Multilingual Support",
+        "description": "Supports English, Spanish, French, Arabic, Thai, Vietnamese and 20+ other mainstream languages with automatic switching"
+      },
+      "multiCurrency": {
+        "title": "Multi-Currency Settlement",
+        "description": "Supports 100+ currencies with real-time exchange rate conversion, buyers can pay in local currency, sellers receive mainstream currencies"
+      },
+      "visualBuilder": {
+        "title": "Visual Builder",
+        "description": "Drag-and-drop page editor, massive exquisite templates, build professional brand image without writing code"
+      }
+    },
+    "paymentSection": {
+      "title": "Unified Payment Gateway",
+      "subtitle": "One-time integration, global collection. Supports credit cards, digital wallets, local payment and other payment methods",
+      "stripe": "Credit/Debit Card, Global Coverage",
+      "paypal": "Global Mainstream E-Wallet",
+      "alipayTitle": "Local Payment",
+      "alipay": "Southeast Asia Local Wallets",
+      "localTitle": "COD Cash on Delivery",
+      "local": "Supports COD in Southeast Asia",
+      "featuresTitle": "Core Payment Capabilities",
+      "feature1": "Supports 100+ currencies with real-time exchange rates",
+      "feature2": "PCI DSS Security Compliance Certification",
+      "feature3": "3D Secure 2.0 fraud protection"
+    },
+    "logisticsSection": {
+      "title": "Global Logistics Network",
+      "subtitle": "Deep partnership with top global logistics service providers, providing one-stop logistics solutions",
+      "yuntu": {
+        "title": "Yuntu Logistics",
+        "description": "Specialized logistics line expert, Southeast Asia, Europe and America direct line, stable timeliness, competitive pricing"
+      },
+      "yanwen": {
+        "title": "Yanwen Logistics",
+        "description": "China Post core partner, covering 200+ countries and regions globally, cost-effective choice"
+      },
+      "dhl": {
+        "title": "DHL / UPS",
+        "description": "International commercial courier giants, fast delivery, great service, fully trackable, suitable for high-value products"
+      },
+      "seaDelivery": "Southeast Asia Fastest",
+      "euDelivery": "Europe/America Average",
+      "warehouses": "Partner Warehouses",
+      "lines": "Logistics Lines"
+    },
+    "multitenantSection": {
+      "title": "Multi-Tenant Management System",
+      "subtitle": "Flexible role permission management, meeting the needs of merchants, platform operators, administrators and other roles",
+      "merchant": "Merchant Portal",
+      "merchantDesc": "Complete product management, order processing, data analysis, marketing promotion functions, easily operate independent sites",
+      "platform": "Platform Portal",
+      "platformDesc": "Merchant management, rate configuration, financial settlement, operation dashboard, one-stop control of the entire platform",
+      "admin": "Administrator",
+      "adminDesc": "System settings, user management, permission control, audit logs, comprehensive control of system security and operations"
+    },
+    "dataSection": {
+      "title": "Smart Data Analytics",
+      "subtitle": "Real-time data dashboard and AI predictive analysis, helping you make smarter business decisions",
+      "realtime": {
+        "title": "Real-time Data Dashboard",
+        "description": "Real-time monitoring of sales data, traffic sources, conversion funnels, key indicators at a glance, quickly respond to market changes"
+      },
+      "forecast": {
+        "title": "AI Sales Forecast",
+        "description": "Based on historical data and market trends, AI intelligently predicts future sales volume, helping you optimize inventory and stocking plans"
+      }
+    },
+    "complianceSection": {
+      "title": "Compliance & Risk Control System",
+      "subtitle": "Protecting your cross-border business, meeting tax, customs, data security and other compliance requirements in various regions",
+      "tax": {
+        "title": "Tax Compliance",
+        "description": "Supports automatic VAT/GST calculation and declaration, covering EU, UK, Southeast Asia and other regional tax requirements"
+      },
+      "customs": {
+        "title": "Customs Clearance",
+        "description": "Automatic generation of customs declaration documents, integration with customs systems, support for certificate of origin, commodity inspection and other customs clearance document management"
+      },
+      "fraud": {
+        "title": "Anti-Fraud System",
+        "description": "Multi-dimensional risk detection, real-time identification of abnormal orders and fraudulent activities, protecting merchant and platform fund security"
+      }
+    },
+    "pluginSection": {
+      "title": "Plugin Ecosystem",
+      "subtitle": "Open platform architecture, rich application marketplace, on-demand subscription, flexible expansion",
+      "marketplace": "Application Marketplace",
+      "marketplaceDesc": "Massive third-party applications and plugins, one-click installation, rapid feature expansion",
+      "onDemand": "On-Demand Subscription",
+      "onDemandDesc": "Basic features free forever, advanced features on-demand subscription, controllable costs",
+      "custom": "Custom Development",
+      "customDesc": "Open API and SDK, supports developer custom development, meeting personalized needs",
+      "updates": "Continuous Updates",
+      "updatesDesc": "Monthly feature iterations and security updates, free access to the latest features"
+    },
+    "infraSection": {
+      "title": "Infrastructure Layer",
+      "subtitle": "The foundation of the multi-tenant platform, all upper modules depend on this layer's capabilities, platform shared and required",
+      "iam": {
+        "title": "Unified Identity & Access Management (IAM)",
+        "description": "OAuth2.0+JWT authorization server, unified authentication for platform/tenant/C-end users, role-based access control (RBAC), third-party login integration, token lifecycle management",
+        "feature1": "Multi-tenant client isolation, each merchant has an OAuth client",
+        "feature2": "Role-based fine-grained permission control (RBAC)",
+        "feature3": "Third-party login support: Apple, Google, WeChat, etc.",
+        "feature4": "Automatic token renewal and blacklist mechanism"
+      },
+      "i18n": {
+        "title": "Multilingual i18n Engine",
+        "description": "Static text translation management, dynamic content translation storage, automatic language detection and switching, RTL language (Arabic/Hebrew) support, translation content version control",
+        "feature1": "All APIs natively support Accept-Language header",
+        "feature2": "URL language prefix automatic routing support",
+        "feature3": "Support for 20+ mainstream languages",
+        "feature4": "RTL language layout auto-adaptation"
+      },
+      "currency": {
+        "title": "Multi-Currency Settlement Engine",
+        "description": "Real-time exchange rate management and automatic update, multi-currency pricing and display, exchange rate risk hedging, currency formatting and localization",
+        "feature1": "Merchants can set independent pricing per market",
+        "feature2": "100+ currencies with real-time exchange rate conversion",
+        "feature3": "Exchange rate fluctuation warning and automatic hedging",
+        "feature4": "Buyers pay in local currency, sellers receive mainstream currency"
+      },
+      "tenantEngine": {
+        "title": "Multi-Tenant Isolation Engine",
+        "description": "Data isolation (shared table + tenant_id), resource isolation (compute/storage/bandwidth), automatic tenant context propagation, dedicated Schema support for large customers",
+        "feature1": "Shopify-style Pod architecture",
+        "feature2": "Tenant group-based isolation, no fault propagation",
+        "feature3": "Full-link automatic tenant context propagation",
+        "feature4": "Dedicated deployment mode for large customers"
+      },
+      "apiGateway": {
+        "title": "API Gateway",
+        "description": "Unified entry and routing, token validation and tenant context extraction, rate limiting and circuit breaking, request logging and monitoring, cross-domain processing",
+        "feature1": "All requests must pass gateway validation",
+        "feature2": "Ensures tenant data isolation, prevents unauthorized access",
+        "feature3": "Smart rate limiting and circuit breaking, system stability",
+        "feature4": "Full-link request logging and performance monitoring"
+      },
+      "messageQueue": {
+        "title": "Message Queue System",
+        "description": "Async task processing, order status flow, email/SMS sending, data synchronization",
+        "feature1": "Peak traffic shaving, ensures stable big promotion operation",
+        "feature2": "Async decoupling, improves system throughput",
+        "feature3": "Reliable message delivery and dead-letter queue",
+        "feature4": "Supports million-level concurrent task processing"
+      },
+      "cache": {
+        "title": "Distributed Cache",
+        "description": "Product data cache, user session cache, token blacklist, hot data cache",
+        "feature1": "Global CDN acceleration, ensures fast access across regions",
+        "feature2": "Multi-level cache strategy, 95%+ hit rate",
+        "feature3": "Automatic hot data discovery and pre-warming",
+        "feature4": "Distributed session state storage"
+      },
+      "objectStorage": {
+        "title": "Object Storage",
+        "description": "Product image/video storage, order voucher storage, merchant file storage",
+        "feature1": "Support for global multi-region storage",
+        "feature2": "CDN distribution, fast global access",
+        "feature3": "Automatic image/video compression and format conversion",
+        "feature4": "99.999999999% data durability"
+      }
+    },
+    "platformMgmtSection": {
+      "title": "Platform Operations Management",
+      "subtitle": "The core of platform control over all tenants and the entire ecosystem, the distinguishing mark of multi-tenant platforms from single-tenant e-commerce",
+      "tenantLifecycle": {
+        "title": "Tenant Lifecycle Management",
+        "description": "Merchant onboarding application, qualification review, real-name authentication, package and pricing management, activation/renewal/upgrade/downgrade/freeze/cancellation, resource quota management, tenant tier management",
+        "sub1": "Tenant Registration & Review",
+        "sub1Desc": "Complete merchant onboarding process, qualification review and real-name authentication",
+        "sub2": "Package & Pricing Management",
+        "sub2Desc": "Basic/Professional/Enterprise tier packages, flexible pricing",
+        "sub3": "Resource Quota Management",
+        "sub3Desc": "Fine-grained quotas for product count, order volume, storage space",
+        "sub4": "Tenant Tier Management",
+        "sub4Desc": "Merchant tiering by GMV and activity, differentiated services"
+      },
+      "globalControl": {
+        "title": "Platform Global Control",
+        "description": "Global category and attribute standardization, prohibited items and sensitive word management, product quality sampling and violation handling, intellectual property protection and infringement complaint handling",
+        "sub1": "Platform Product Governance",
+        "sub1Desc": "Global category standardization, automatic detection of prohibited items and sensitive words",
+        "sub2": "Platform Order Center",
+        "sub2Desc": "Global order monitoring, exception order handling, platform intervention in disputes",
+        "sub3": "Unified Payment & Settlement Center",
+        "sub3Desc": "Global payment gateway integration, unified platform collection and settlement, merchant withdrawal management, exchange rate management, platform commission and service fee calculation",
+        "sub4": "Global Logistics Hub",
+        "sub4Desc": "API integration with mainstream logistics providers, logistics channel management, logistics track aggregation and standardization"
+      },
+      "compliance": {
+        "title": "Compliance & Risk Control",
+        "description": "National tax regulation management (VAT, IOSS, tariff), customs declaration data generation and integration, privacy compliance management (GDPR, CCPA, PCI DSS)",
+        "sub1": "Global Compliance Center",
+        "sub1Desc": "Cross-border e-commerce lifeline, automatic generation of compliance declaration data",
+        "sub2": "Risk Control Management Center",
+        "sub2Desc": "Registration fraud detection, payment fraud and theft protection, abnormal transaction monitoring, merchant violation monitoring, AML compliance"
+      },
+      "platformTools": {
+        "title": "Platform Operation Tools",
+        "description": "Platform content management, platform marketing center, merchant operations, customer service management, platform data analysis",
+        "feature1": "Homepage, announcements, help center, blog content management",
+        "feature2": "Platform-level promotion activities, coupons, ad space management",
+        "feature3": "Merchant growth system, training courses, operational support",
+        "feature4": "Global GMV, order volume, user count, merchant count statistics and analysis"
+      }
+    },
+    "tenantBusinessSection": {
+      "title": "Tenant Business Layer",
+      "subtitle": "The merchant daily operation backend, each tenant's data is completely independent and does not affect each other",
+      "storeMgmt": {
+        "title": "Store Management",
+        "description": "Store basic settings, domain management, visual drag-and-drop editor, theme template marketplace, multi-market independent settings, sub-account permission management",
+        "feature1": "Free configuration of store name, logo, contact info, business hours",
+        "feature2": "Custom domain binding, automatic SSL certificate configuration",
+        "feature3": "Each market has independent language, currency, tax rate, payment method settings",
+        "feature4": "Create sub-accounts, assign different role permissions"
+      },
+      "productMgmt": {
+        "title": "Product Management (Core of Cross-Border E-Commerce)",
+        "description": "Multilingual product management, product info management, inventory management, cross-border compliance management, complete product lifecycle management",
+        "sub1": "Multilingual Product Management",
+        "sub1Desc": "Multilingual versions of product names, descriptions, specifications, multilingual images and videos, multilingual SEO fields",
+        "sub2": "Product Info Management",
+        "sub2Desc": "Product categories and tags, multi-spec and SKU management, product attributes and variants, batch import/export",
+        "sub3": "Inventory Management",
+        "sub3Desc": "Multi-warehouse inventory management (domestic/overseas), inventory warning and restock alerts, inventory transfer and counting, pre-order and presale management",
+        "sub4": "Cross-Border Compliance Management",
+        "sub4Desc": "Automatic HS code matching and management, prohibited item auto-check, product certification info management (CE, FCC, etc.), origin information management"
+      },
+      "orderMgmt": {
+        "title": "Order Management",
+        "description": "Full-process order management, cross-border order features, after-sales and returns, abandoned cart recovery",
+        "sub1": "Order Full-Process Management",
+        "sub1Desc": "Order list and details, status flow (pending payment/pending shipment/shipped/completed/cancelled), order editing, batch processing",
+        "sub2": "Cross-Border Order Features",
+        "sub2Desc": "Automatic customs declaration info generation, international waybill printing and batch shipping, real-time logistics tracking, tax and tariff calculation",
+        "sub3": "After-Sales & Returns",
+        "sub3Desc": "Return/refund application processing, refund management, dispute handling, complete after-sales workflow",
+        "sub4": "Abandoned Cart Recovery",
+        "sub4Desc": "Unpaid order auto-reminder, abandoned cart coupon auto-send, abandoned cart reason analysis"
+      },
+      "customerMgmt": {
+        "title": "Customer Management",
+        "description": "Customer list and details, customer tags and grouping, membership system, customer messaging, customer feedback and review management",
+        "feature1": "Complete display of customer info, order history, consumption records",
+        "feature2": "Intelligent grouping by consumption amount, purchase frequency, region, etc.",
+        "feature3": "Membership tiers, point rules, benefit settings",
+        "feature4": "In-site message, email, SMS bulk messaging reach"
+      },
+      "marketingMgmt": {
+        "title": "Marketing & Promotion",
+        "description": "Basic marketing tools, cross-border marketing tools, full-stack SEO optimization support",
+        "sub1": "Basic Marketing Tools",
+        "sub1Desc": "Coupons and discount codes, full reduction and full gift activities, limited time discounts and flash sales, bundle sales and matching recommendations",
+        "sub2": "Cross-Border Marketing Tools",
+        "sub2Desc": "Email marketing (EDM) template management and automated email flow, social media integration (Facebook/Instagram/TikTok), affiliate marketing recruiter and commission management",
+        "sub3": "SEO Optimization",
+        "sub3Desc": "Page SEO settings, structured data generation, URL rewriting, 301 redirect management"
+      },
+      "logisticsMgmt": {
+        "title": "Logistics & Shipping",
+        "description": "Logistics template management, multi-warehouse management, logistics provider selection, shipping labels and waybill printing, logistics tracking synchronization",
+        "feature1": "Flexible shipping template settings by region and weight",
+        "feature2": "Support multiple warehouses, automatic shipping warehouse assignment",
+        "feature3": "Connect with platform-provided logistics channels",
+        "feature4": "Batch print shipping labels and waybills"
+      },
+      "financeMgmt": {
+        "title": "Financial Management",
+        "description": "Order revenue statistics, platform commission and service fee details, withdrawal records, multi-currency financial reports, profit analysis, tax report generation",
+        "feature1": "Real-time order revenue and expenditure statistics",
+        "feature2": "Platform commission and service fee detailed records",
+        "feature3": "Multi-currency conversion and financial reports",
+        "feature4": "Profit analysis by product, order, customer"
+      },
+      "analyticsMgmt": {
+        "title": "Data Analytics",
+        "description": "Store overview, product analysis, user analysis, marketing analysis, traffic analysis",
+        "feature1": "Real-time dashboard for GMV, order volume, visitors, conversion rate",
+        "feature2": "In-depth analysis of sales, inventory, conversion rate, profit",
+        "feature3": "New users, active users, repurchase rate analysis",
+        "feature4": "Campaign effectiveness, coupon usage, traffic source analysis"
+      }
+    },
+    "consumerSection": {
+      "title": "Consumer (C-End) Layer",
+      "subtitle": "Front-end interface for global consumers, based on platform shared user system, one-time registration universal across platform",
+      "shoppingExp": {
+        "title": "Shopping Experience",
+        "description": "Multilingual multi-currency interface, product browsing and search, shopping cart, checkout flow, creating smooth experience for global consumers",
+        "sub1": "Multilingual Multi-Currency Interface",
+        "sub1Desc": "Automatic user language and region detection, real-time currency switching and price conversion, RTL language layout support",
+        "sub2": "Product Browsing & Search",
+        "sub2Desc": "Category navigation and filtering, keyword search and suggestion, product detail page, product reviews and Q&A",
+        "sub3": "Shopping Cart",
+        "sub3Desc": "Add to cart, edit cart items, cart product recommendations",
+        "sub4": "Checkout Flow",
+        "sub4Desc": "Express checkout (guest checkout), shipping address management, shipping method selection, payment method selection, order confirmation and submission"
+      },
+      "userAccount": {
+        "title": "User Account",
+        "description": "Registration and login, personal center, order center, favorites and follows, complete self-service system",
+        "sub1": "Registration & Login",
+        "sub1Desc": "Email/phone registration, third-party login (Google, Apple, Facebook, etc.), one-click login, forgot password",
+        "sub2": "Personal Center",
+        "sub2Desc": "Personal info management, shipping address management, payment method management, language and currency preference settings",
+        "sub3": "Order Center",
+        "sub3Desc": "Order list and details, order status tracking, logistics tracking query, return/refund application",
+        "sub4": "Favorites & Follows",
+        "sub4Desc": "Product favorites, store follows, favorites management"
+      },
+      "support": {
+        "title": "Customer Service & After-Sales",
+        "description": "Multilingual online customer service, ticket system, FAQ, return/refund process guidance, complaints and suggestions",
+        "feature1": "7x24 multilingual online customer service",
+        "feature2": "AI chatbot with smart transfer to human agents",
+        "feature3": "Structured FAQ and help center",
+        "feature4": "Complete after-sales workflow and ticket tracking"
+      }
+    },
+    "dataIntelligenceSection": {
+      "title": "Data Intelligence Layer",
+      "subtitle": "Using AI and big data to improve platform efficiency and merchant conversion rate, the core competitiveness of modern e-commerce platforms",
+      "aiContent": {
+        "title": "AI Content Generation",
+        "description": "Automatic multilingual product title and description generation, marketing copy and email content generation, image editing and optimization",
+        "feature1": "Intelligent copy creation based on large language models",
+        "feature2": "Automatic translation and localization polish for 20+ languages",
+        "feature3": "Marketing copy and email content automatic generation",
+        "feature4": "Intelligent image editing, background replacement and style optimization"
+      },
+      "recommendation": {
+        "title": "Smart Recommendation Engine",
+        "description": "Personalized homepage recommendation, related recommendation on product detail page, shopping cart matching recommendation, search result ranking optimization",
+        "feature1": "Personalized recommendations based on user behavior and profile",
+        "feature2": "Product association rules and matching recommendations",
+        "feature3": "Smart search result ranking and relevance optimization",
+        "feature4": "Real-time recommendation response time <100ms"
+      },
+      "selectionPricing": {
+        "title": "Smart Product Selection & Pricing",
+        "description": "Global market trend analysis, hot product recommendation, dynamic pricing suggestion, competitor price monitoring",
+        "feature1": "Data-driven intelligent product selection suggestions",
+        "feature2": "Real-time competitor price monitoring and comparison",
+        "feature3": "Dynamic pricing strategy and profit optimization",
+        "feature4": "Hot trend prediction and inventory warning"
+      },
+      "intelligentService": {
+        "title": "AI Smart Customer Service",
+        "description": "7x24 multilingual AI chatbot, automatic common question reply, smart transfer to human agent",
+        "feature1": "Multilingual dialogue capability based on large language models",
+        "feature2": "Intent recognition and question classification, first response <5 seconds",
+        "feature3": "80% common questions automatically handled without human intervention",
+        "feature4": "Complex issues smart transfer to human with context"
+      },
+      "businessIntelligence": {
+        "title": "Merchant Business Intelligence",
+        "description": "Smart reports and data visualization, user profile and precision marketing, sales forecast and inventory warning, advertising effectiveness analysis and optimization",
+        "feature1": "Custom data dashboard and visual reports",
+        "feature2": "User profile building and precision marketing push",
+        "feature3": "AI-driven sales forecasting and restock suggestions",
+        "feature4": "Churn user warning and recovery strategy"
+      }
+    }
+  },
+  "solutionsPage": {
+    "hero": {
+      "title": "Full-Scene Global Expansion Solutions",
+      "subtitle": "From factory export to brand DTC, from Southeast Asia to Europe and America, LeiMall provides tailor-made solutions",
+      "cta": "Consult Now",
+      "global": "Global Solution",
+      "countries": "Countries Covered",
+      "sea": "Southeast Asia Exclusive",
+      "hot": "Most Popular",
+      "factory": "Factory Export Solution",
+      "b2c": "B2C Direct Model"
+    },
+    "globalSection": {
+      "title": "Global Solution",
+      "subtitle": "For all SMEs and individual sellers preparing for or currently expanding globally",
+      "scenario": "Applicable Scenarios",
+      "scenarioDesc": "SMEs targeting global markets, cross-border e-commerce sellers, individual entrepreneurs looking to quickly build independent sites for global business",
+      "advantage": "Core Advantages",
+      "advantageDesc": "Build sites in 3 minutes, cover 200+ countries and regions, one-stop payment and logistics solutions, AI full-stack operational support",
+      "features": "Feature Highlights",
+      "featuresDesc": "Multilingual and multi-currency websites, unified payment gateway, global logistics integration, AI customer service, data analytics dashboard, marketing toolkit"
+    },
+    "seaSection": {
+      "title": "Southeast Asia Exclusive Solution",
+      "subtitle": "Deep localized services, China-Laos Railway logistics line, 3-day fastest delivery, minor language dedicated operation support",
+      "hot": "Key Recommendation",
+      "scenario": "Applicable Scenarios",
+      "scenarioDesc": "Enterprises focusing on Southeast Asian markets (Thailand, Vietnam, Indonesia, Malaysia, Philippines, Singapore)",
+      "advantage": "Core Advantages",
+      "advantageDesc": "China-Laos Railway logistics line, local payment integration (GrabPay, GoPay, Momo, etc.), minor language customer service, local warehousing network",
+      "features": "Feature Highlights",
+      "featuresDesc": "Thai/Vietnamese/Indonesian localization, COD cash on delivery, local logistics lines, Southeast Asia local KOL marketing integration",
+      "tableTitle": "Southeast Asia Market Coverage",
+      "country": "Country/Region",
+      "delivery": "Delivery Time",
+      "payment": "Payment Methods",
+      "language": "Language Support",
+      "thailand": "Thailand",
+      "vietnam": "Vietnam",
+      "indonesia": "Indonesia",
+      "philippines": "Philippines",
+      "days": "days"
+    },
+    "euSection": {
+      "title": "Europe & America Solution",
+      "subtitle": "Professional solutions for mature markets, compliance-first, high-quality logistics and payment experience",
+      "scenario": {
+        "title": "Applicable Scenarios",
+        "description": "Brands, factories, large sellers targeting European and American markets with high requirements for quality, timeliness and compliance",
+        "tag": "Mature Market"
+      },
+      "advantage": {
+        "title": "Core Advantages",
+        "description": "European and American local warehouses, multi-platform sync (Amazon/eBay/independent site), VAT compliance, BNPL buy-now-pay-later payment support",
+        "tag": "Quality Experience"
+      },
+      "features": {
+        "title": "Feature Highlights",
+        "description": "VAT automatic calculation and declaration, European and American local warehouse delivery, multi-platform data sync, CRM, repurchase marketing tools",
+        "tag": "Professional Grade"
+      }
+    },
+    "factorySection": {
+      "title": "Factory Export Solution",
+      "subtitle": "Skip middlemen, reach global consumers directly, build own brand, improve profit margins",
+      "d2c": {
+        "title": "D2C Direct Model",
+        "description": "Factory direct connection to global consumers, eliminating multiple wholesaler and retailer layers, profit margin increase of 30%+"
+      },
+      "insights": {
+        "title": "Market Insights",
+        "description": "Based on global market data analysis, helping factories select precise products, optimize product design, grasp market opportunities"
+      },
+      "profit": "Avg Profit Growth",
+      "efficiency": "Operation Efficiency",
+      "expansion": "Market Expansion",
+      "support": "24/7 Support"
+    },
+    "traderSection": {
+      "title": "Trader Transformation Solution",
+      "subtitle": "From traditional foreign trade to digital cross-border e-commerce, achieving dual leaps in efficiency and profitability",
+      "management": {
+        "title": "Multi-Store Unified Management",
+        "description": "One dashboard manages all platform stores, real-time sync of orders, products, inventory data, operational efficiency doubled"
+      },
+      "automation": {
+        "title": "AI Automated Operations",
+        "description": "Smart copywriting, smart customer service, smart product selection, smart pricing, AI-driven automated operation system"
+      },
+      "analytics": {
+        "title": "Real-Time Data Analytics",
+        "description": "Full-link data tracking and analysis, real-time insight into business health, data-driven decision making"
+      }
+    },
+    "brandSection": {
+      "title": "Brand DTC Solution",
+      "subtitle": "Independent domain + Private domain operation + Membership system + Brand story, building truly international brands",
+      "customDomain": "Independent Domain & Brand",
+      "customDomainDesc": "Own independent brand domain and website image, build professional brand recognition, free from platform dependency",
+      "membership": "Membership System Building",
+      "membershipDesc": "Complete membership tier, points, coupon system, accumulate private domain traffic, improve user repurchase rate",
+      "marketing": "Brand Marketing Tools",
+      "marketingDesc": "Email marketing, social media marketing, KOL collaboration, content marketing toolkit, all-round brand promotion",
+      "analytics": "Brand Data Insights",
+      "analyticsDesc": "User behavior analysis, brand awareness tracking, customer profile building, data-driven brand decisions",
+      "comparison": "Brand DTC Core Advantages",
+      "independent": "Independent brand domain and website",
+      "dataOwnership": "Full user data ownership",
+      "brandCustomization": "Deep brand customization and VI integration",
+      "longTerm": "Long-term brand value accumulation",
+      "highMargin": "High profit margin and pricing power"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Let SMEs Sell Worldwide",
+      "subtitle": "We are a team of passionate entrepreneurs committed to using technology to break down borders and make it easy for every small and medium enterprise to reach the world",
+      "merchants": "Service Merchants",
+      "countries": "Countries Covered",
+      "exports": "Driven Exports",
+      "mission": "Our Mission",
+      "missionDesc": "Through technological innovation and resource integration, provide low-cost, high-efficiency cross-border e-commerce solutions for global SMEs",
+      "vision": "Our Vision",
+      "visionDesc": "Become the world's leading AI-driven cross-border e-commerce SaaS platform, building a borderless digital trade ecosystem"
+    },
+    "timeline": {
+      "title": "Development Journey",
+      "subtitle": "From startup to industry leader, every step creates value",
+      "founded": "Company Founded",
+      "foundedDesc": "LeiMall founded in Kunming, received angel round investment, assembled core technical team",
+      "launch": "Product Launch",
+      "launchDesc": "LeiMall V1.0 officially launched, first batch of 100 merchants onboarded, service covering 5 Southeast Asian countries",
+      "expansion": "Business Expansion",
+      "expansionDesc": "Completed Series A financing, business expanded to European and American markets, merchant count exceeded 5000",
+      "ai": "AI Empowerment",
+      "aiDesc": "Released AI-driven V2.0 version, introducing large language models, merchant operational efficiency improved 10x"
+    },
+    "team": {
+      "title": "Core Team",
+      "subtitle": "Senior technical and operational experts from Alibaba, Tencent, ByteDance with rich cross-border e-commerce experience",
+      "ceo": "Michael Zhang",
+      "ceoTitle": "Founder & CEO",
+      "ceoDesc": "Former Alibaba cross-border business director, 10 years cross-border e-commerce experience, led multiple GMV million-dollar projects",
+      "cto": "David Li",
+      "ctoTitle": "Co-Founder & CTO",
+      "ctoDesc": "Former Tencent senior technical expert, 8 years distributed architecture design experience, expert in high-concurrency system design",
+      "coo": "Fiona Wang",
+      "cooTitle": "Co-Founder & COO",
+      "cooDesc": "Former ByteDance Southeast Asia operations head, 5 years Southeast Asia localized operation experience, expert in multilingual multicultural market expansion"
+    },
+    "partners": {
+      "title": "Partners Showcase",
+      "subtitle": "Deep cooperation with top global payment, logistics and marketing service providers, offering you the strongest infrastructure",
+      "payment": "Payment Partners",
+      "logistics": "Logistics Partners",
+      "tech": "Technology Partners",
+      "marketing": "Marketing Partners"
+    },
+    "tech": {
+      "title": "Technical Advantages",
+      "subtitle": "Advanced technology architecture and innovation capabilities are the cornerstone of our stable and reliable service",
+      "ai": {
+        "title": "AI Large Model Application",
+        "description": "Deep integration of GPT, Claude and other large models, combined with self-developed industry models, providing industry-leading AI capabilities"
+      },
+      "bigdata": {
+        "title": "Big Data & Cloud Native",
+        "description": "Kubernetes-based microservice architecture, PB-level data processing capability, supporting millions of merchants online simultaneously"
+      },
+      "security": {
+        "title": "Enterprise Security Assurance",
+        "description": "ISO 27001 certification, PCI DSS compliance, data encryption transmission and storage, comprehensive data security and privacy protection"
+      }
+    },
+    "culture": {
+      "title": "Corporate Culture & Values",
+      "subtitle": "We believe technology changes the world, and values drive long-term success",
+      "value1": "Customer First",
+      "value1Desc": "Always measure success by customer success, customer success is our success",
+      "value2": "Continuous Innovation",
+      "value2Desc": "Embrace change, continuously breakthrough, create more business value through technology innovation",
+      "value3": "Team Collaboration",
+      "value3Desc": "Open and transparent communication culture, trusting team collaboration, 1+1 far greater than 2",
+      "value4": "Long-Term Perspective",
+      "value4Desc": "Do not chase short-term interests, insist on doing the right thing, time gives the best answer"
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "title": "News Center",
+      "subtitle": "Learn about LeiMall latest updates, industry news and market insights"
+    },
+    "categories": {
+      "all": "All",
+      "project": "Project Updates",
+      "regional": "Regional News",
+      "industry": "Industry News"
+    },
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "articles": {
+      "a1": {
+        "title": "LeiMall Officially Applies for Chenggong Digital Town Key Project Status",
+        "excerpt": "Recently, LeiMall officially submitted an application to Kunming Chenggong District Government to be included as a key cultivation project of the digital town, receiving dual support in policy and funding"
+      },
+      "a2": {
+        "title": "LeiMall Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced by Another 20%",
+        "excerpt": "Through deep cooperation with China-Laos Railway, LeiMall launches a brand new Southeast Asia exclusive solution, helping merchants reduce logistics costs by 20%"
+      },
+      "a3": {
+        "title": "China's Cross-Border E-Commerce Imports and Exports Exceed 2.3 Trillion Yuan in 2026",
+        "excerpt": "According to the latest data from the General Administration of Customs, China's cross-border e-commerce imports and exports have exceeded 2.3 trillion yuan in 2026, a year-on-year increase of 15.6%"
+      },
+      "a4": {
+        "title": "LeiMall AI Smart Customer Service Officially Launched, Supporting 20+ Languages",
+        "excerpt": "LeiMall AI smart customer service built on the latest large language model is now commercially available, improving merchant customer service efficiency by 80%"
+      },
+      "a5": {
+        "title": "Vietnam Market Insights: LeiMall Vietnam Local Payment Channels Fully Launched",
+        "excerpt": "LeiMall has completed integration with major Vietnam payment institutions, including mainstream e-wallets such as Momo, ZaloPay, VNPay"
+      },
+      "a6": {
+        "title": "Cross-Border E-Commerce Compliance Guide: Complete Guide to European VAT Declaration",
+        "excerpt": "Detailed interpretation of EU and UK VAT declaration requirements and processes, helping merchants achieve compliant overseas expansion and avoid tax risks"
+      }
+    }
+  },
+  "newsDetail": {
+    "back": "Back to News List",
+    "highlights": "Key Points",
+    "prev": "Previous Article",
+    "next": "Next Article",
+    "related": "Related News",
+    "articles": {
+      "a1": {
+        "title": "LeiMall Officially Applies for Chenggong Digital Town Key Project Status",
+        "excerpt": "Recently, LeiMall officially submitted an application to the Kunming Chenggong District Government",
+        "content1": "Recently, LeiMall officially submitted an application to the Kunming Chenggong District Government to be included as a key cultivation project of the digital town. As an AI-driven cross-border e-commerce SaaS platform, LeiMall's development has received high attention from the government.",
+        "content2": "Chenggong Digital Town is a key digital economy industrial park built by Yunnan Province, planning to cultivate more than 100 leading digital economy enterprises within 5 years, forming a hundred-billion-yuan industrial cluster. Key cultivation projects will enjoy multiple policy dividends including tax incentives, financial support, venue support, and talent policies.",
+        "content3": "With advanced technical architecture, innovative business model and significant social value, LeiMall has been highly recognized by review experts. The company plans to invest 150 million yuan in the next 3 years to build cross-border e-commerce infrastructure covering South and Southeast Asia.",
+        "content4": "If this application is approved, LeiMall will receive key government support to accelerate product R&D and market expansion, providing high-quality overseas expansion services for more SMEs. At the same time, relying on the China-Laos Railway logistics corridor, the company will build a new digital trade channel for Southeast Asia.",
+        "highlight1": "Tax reduction policy: 3-year corporate income tax reduction",
+        "highlight2": "Financial support: Up to 10 million yuan special subsidy",
+        "highlight3": "Talent policy: High-end talent individual tax refund and housing subsidy"
+      },
+      "a2": {
+        "title": "LeiMall Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced Again by 20%",
+        "excerpt": "Through deep cooperation with China-Laos Railway, LeiMall launches brand new Southeast Asia exclusive solution",
+        "content1": "Today, LeiMall officially released a new upgraded Southeast Asia exclusive solution. Through in-depth strategic cooperation with China-Laos Railway, it helps merchants reduce logistics costs by more than 20%.",
+        "content2": "As a landmark project of the Belt and Road Initiative, the China-Laos Railway has accumulated more than 20 million tons of goods since its opening, becoming a golden logistics channel from China to Southeast Asia. LeiMall has signed a strategic cooperation agreement with China-Laos Railway Company to obtain exclusive cabin space and preferential rates.",
+        "content3": "The new solution includes not only logistics lines, but also integrates Southeast Asia local payment (GrabPay, GoPay, Momo, etc.), minor language customer service, local warehousing and COD cash-on-delivery and other full services, helping merchants to expand Southeast Asian markets in one stop.",
+        "content4": "Data shows that Southeast Asian Internet economy is expected to reach 600 billion US dollars by 2026, making it one of the fastest growing e-commerce markets in the world. LeiMall's Southeast Asia exclusive solution will help Chinese enterprises, especially local Yunnan enterprises, to seize this historic opportunity.",
+        "highlight1": "China-Laos Railway exclusive logistics line, timeliness improved to 3-5 days",
+        "highlight2": "Comprehensive coverage of Thailand, Vietnam, Indonesia, Malaysia four major markets",
+        "highlight3": "Local payment methods such as Momo, ZaloPay, GrabPay fully connected"
+      },
+      "a3": {
+        "title": "China's Cross-Border E-Commerce Imports and Exports Exceed 2.3 Trillion Yuan",
+        "excerpt": "According to the latest data released by the General Administration of Customs, China's cross-border e-commerce imports and exports reached 2.3 trillion yuan in 2026",
+        "content1": "According to the latest data released by the General Administration of Customs, China's cross-border e-commerce imports and exports reached 2.3 trillion yuan in 2026, a year-on-year increase of 15.6%, continuing to maintain rapid growth.",
+        "content2": "Among them, export volume reached 1.55 trillion yuan, up 18.2% year-on-year; import volume reached 0.75 trillion yuan, up 10.8% year-on-year. Export growth rate is significantly higher than imports, showing the strong competitiveness of China's cross-border e-commerce exports.",
+        "content3": "From the market structure perspective, Southeast Asian market grew the fastest at 35% year-on-year, becoming the first emerging market for China's cross-border e-commerce exports; European and American markets maintained stable growth, up 12% year-on-year; emerging markets such as the Middle East and Latin America also performed brightly.",
+        "content4": "From the product structure perspective, 3C digital, home furniture, fashion apparel, beauty and personal care, sports and outdoor are the five major categories of cross-border e-commerce exports. Among them, new energy-related products (such as energy storage power supplies, outdoor power supplies) have grown particularly rapidly.",
+        "highlight1": "Southeast Asian market grew 35% year-on-year, ranking first in growth rate",
+        "highlight2": "Independent site mode proportion increased to 35%, growth rate exceeding platform sellers",
+        "highlight3": "AI-driven refined operation becomes new industry trend"
+      },
+      "a4": {
+        "title": "LeiMall AI Smart Customer Service Officially Launched, Supporting 20+ Languages",
+        "excerpt": "LeiMall AI smart customer service built on the latest large language model is now commercially available",
+        "content1": "LeiMall AI smart customer service system is now officially open to all merchants. Based on the latest large language model technology, combined with LeiMall's massive cross-border e-commerce data training, it supports automatic reply and customer consultation processing in 20+ languages.",
+        "content2": "The system has strong intent recognition capabilities, able to accurately understand customer consultation content (order inquiries, logistics tracking, returns and exchanges, product consultations, etc.), and provide appropriate replies. For complex issues, the system will automatically transfer to manual customer service and provide contextual information.",
+        "content3": "Internal test data shows that LeiMall AI smart customer service can handle more than 80% of common customer consultations, shortening first response time to within 5 seconds, customer satisfaction reaching more than 95%, significantly reducing merchants' customer service labor costs.",
+        "content4": "Currently, AI smart customer service is free for LeiMall professional and enterprise customers, basic edition customers can use it with pay-as-you-go. More AI capabilities such as AI product description generation, AI ad copywriting will be launched in the future.",
+        "highlight1": "Supports 20+ languages including English, Thai, Vietnamese, Indonesian",
+        "highlight2": "Handles 80% of common consultations, first response time within 5 seconds",
+        "highlight3": "Free for professional and enterprise customers"
+      },
+      "a5": {
+        "title": "Vietnam Market Insights: LeiMall Vietnam Local Payment Channels Fully Launched",
+        "excerpt": "LeiMall has completed docking with major Vietnam payment institutions",
+        "content1": "LeiMall today announced the full completion of Vietnam local payment channel docking, including mainstream e-wallets such as Momo, ZaloPay, VNPay, AirPay, as well as online banking and ATM card payment for major Vietnamese banks.",
+        "content2": "Vietnam is one of the fastest growing e-commerce markets in Southeast Asia, with over 70 million internet users and rapidly rising e-commerce penetration. Due to low credit card penetration, e-wallets and bank transfers are the primary payment methods for Vietnamese consumers.",
+        "content3": "Previously, many Chinese merchants missed out on large orders due to inability to access Vietnamese local payments. LeiMall's Vietnam local payment solution enables merchants to easily accept payments from Vietnamese consumers just like local Vietnamese enterprises, with automatic exchange rate conversion and settlement.",
+        "content4": "In addition to payment channels, LeiMall also provides a complete localized solution for the Vietnamese market, including Vietnamese interface, Vietnam local logistics line, Vietnam local warehousing, Vietnam SEO optimization, helping merchants develop the Vietnamese market in one stop.",
+        "highlight1": "Supports mainstream e-wallets such as Momo, ZaloPay, VNPay",
+        "highlight2": "Supports online banking and ATM card payments for major Vietnamese banks",
+        "highlight3": "T+3 fast settlement, supports RMB/USD withdrawal"
+      },
+      "a6": {
+        "title": "Cross-Border E-Commerce Compliance Guide: European VAT Declaration Complete Strategy",
+        "excerpt": "Detailed interpretation of EU and UK VAT declaration requirements and processes",
+        "content1": "For cross-border e-commerce sellers operating in European markets, VAT (value-added tax) compliance is an unavoidable important topic. Non-compliance may lead to serious consequences such as fines, goods detention, store closure.",
+        "content2": "EU VAT Basic Requirements: All EU internal remote sales sellers with annual sales exceeding 10,000 euros need to register and pay VAT in the destination country. Sellers using FBA or other EU local warehouses need to register regardless of sales volume.",
+        "content3": "UK VAT: After Brexit, the UK implements an independent VAT system with a standard rate of 20%. Sellers selling goods to UK consumers with annual sales exceeding £85,000 need to register for UK VAT. Sellers using UK local warehousing must also register.",
+        "content4": "IOSS One-Stop Service: To simplify VAT declaration for low-value goods (≤150 euros), the EU launched the IOSS one-stop service, allowing sellers to register IOSS in only one EU country to cover sales in all EU countries. It is recommended that all sellers operating in European markets register for IOSS.",
+        "highlight1": "EU annual sales over 10,000 euros or using local warehouse requires VAT registration",
+        "highlight2": "UK annual sales over £85,000 or using local warehouse requires VAT registration",
+        "highlight3": "Registering IOSS can simplify VAT declaration process for low-value goods"
+      }
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Business Consultation",
+      "subtitle": "We look forward to every conversation with you, whether you are consulting products, seeking cooperation, or joining us"
+    },
+    "info": {
+      "title": "Contact Information",
+      "subtitle": "Multiple contact methods, there is always one suitable for you",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "addressDesc": "Digital Economy Industrial Park, Chenggong District, Kunming, Yunnan Province"
+    },
+    "offices": {
+      "title": "Regional Offices",
+      "china": "China Headquarters - Kunming",
+      "chinaDesc": "Address: Digital Economy Industrial Park, Chenggong District, Kunming, Yunnan Province / Phone: +86 871-XXXXXXX",
+      "sea": "Southeast Asia Office",
+      "seaDesc": "Bangkok, Thailand: +66 2-XXXX-XXXX / Ho Chi Minh City, Vietnam: +84 28-XXXX-XXXX"
+    },
+    "social": {
+      "title": "Follow Us"
+    },
+    "form": {
+      "title": "Business Cooperation Consultation",
+      "subtitle": "Fill in the form below and our account manager will contact you within 24 hours",
+      "name": "Name",
+      "company": "Company Name",
+      "email": "Email",
+      "phone": "Phone",
+      "interest": "Product of Interest",
+      "interestFeatures": "Product Features",
+      "interestPricing": "Pricing Plan",
+      "interestSolutions": "Solutions",
+      "interestEnterprise": "Enterprise Services",
+      "interestPartnership": "Ecosystem Partnership",
+      "interestOther": "Other",
+      "message": "Your Requirements Description",
+      "submit": "Submit Consultation",
+      "success": "Submitted successfully! Our account manager will contact you within 24 hours, thank you for your attention!"
+    }
+  },
+  "pricingPage": {
+    "hero": {
+      "title": "Simple and Transparent Pricing",
+      "subtitle": "Start for free, upgrade as needed. No long-term contract, adjust anytime"
+    },
+    "plans": {
+      "basic": {
+        "title": "Basic Edition",
+        "subtitle": "Suitable for individual sellers and small merchants getting started",
+        "priceNote": "Free Forever",
+        "feature1": "1 independent site, max 100 products",
+        "feature2": "Basic multilingual (5 languages) and multi-currency (10 currencies)",
+        "feature3": "Basic payment gateway (Stripe/PayPal)",
+        "feature4": "Basic logistics integration (China Post, Yanwen)",
+        "feature5": "Community forum technical support",
+        "cta": "Start for Free"
+      },
+      "professional": {
+        "popular": "Most Popular",
+        "title": "Professional Edition",
+        "subtitle": "Suitable for medium-sized merchants and fast-growing brands",
+        "priceNote": "Supports monthly/annual payment (annual payment saves 20%)",
+        "feature1": "Unlimited independent sites and unlimited products",
+        "feature2": "All 20+ languages and 100+ currencies",
+        "feature3": "All payment gateways (including Southeast Asia local payment)",
+        "feature4": "All logistics service provider integrations",
+        "feature5": "AI smart customer service (including minor languages)",
+        "feature6": "Data analysis and AI sales forecast",
+        "feature7": "7x24 professional customer support",
+        "cta": "Start 14-day Free Trial"
+      },
+      "enterprise": {
+        "title": "Enterprise Edition",
+        "subtitle": "Suitable for large brands, factories and platform-level customers",
+        "custom": "Custom Quote",
+        "priceNote": "Customized based on needs, dedicated account manager",
+        "feature1": "All Professional Edition features",
+        "feature2": "Independent server and database (supports private cloud)",
+        "feature3": "Customized function development and system integration",
+        "feature4": "Dedicated account manager and technical team",
+        "feature5": "SLA service level agreement (99.99% uptime)",
+        "feature6": "Advanced security and compliance services",
+        "feature7": "API and SDK fully open",
+        "feature8": "Enterprise training and consulting services",
+        "cta": "Contact Sales Consultant"
+      }
+    },
+    "month": "/month",
+    "comparison": {
+      "title": "Feature Comparison Matrix",
+      "subtitle": "Detailed comparison of features and services for different editions",
+      "feature": "Feature",
+      "stores": "Number of Independent Sites",
+      "storesBasic": "1",
+      "storesPro": "Unlimited",
+      "unlimited": "Unlimited",
+      "products": "Number of Products",
+      "productsBasic": "100",
+      "payment": "Payment Gateway",
+      "paymentBasic": "2 (Stripe/PayPal)",
+      "paymentPro": "All (15+)",
+      "custom": "Custom",
+      "logistics": "Logistics Integration",
+      "logisticsBasic": "2 (China Post/Yanwen)",
+      "logisticsPro": "All (10+)",
+      "ai": "AI Features",
+      "aiBasic": "Basic copy generation",
+      "aiPro": "Full-featured AI (Customer Service/Copy/Selection/Forecast)",
+      "support": "Technical Support",
+      "supportBasic": "Community Forum",
+      "supportPro": "7x24 Online Customer Service",
+      "supportEnterprise": "7x24 Dedicated Account Manager + Phone Support",
+      "customization": "Custom Development",
+      "no": "No",
+      "customizationPro": "Limited (Application Marketplace)"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Below are the most common questions from customers. If you don't find your answer, please feel free to contact us",
+      "q1": "Is the basic edition really free forever? What are the limitations?",
+      "a1": "Yes, the basic edition is free forever with no hidden fees. Main limitations include: 1 independent site, max 100 products, 5 languages, 10 currencies, 2 payment gateways. You can upgrade to the professional edition at any time to exceed these limits.",
+      "q2": "How is the professional edition ¥2999/month charged? Can I pay monthly?",
+      "a2": "Professional edition supports monthly payment (¥2999/month) or annual payment (¥28800/year, equivalent to 20% discount). New users enjoy a 14-day free trial, and billing starts after the trial period ends. You can upgrade or downgrade your plan at any time.",
+      "q3": "Do you support data migration from other platforms (such as Shopify, Shopline)?",
+      "a3": "Yes, we support one-click migration of product, order, and customer data from mainstream e-commerce platforms (Shopify, Shopline, Youzan, Magento, etc.). Professional edition and above customers enjoy free migration service.",
+      "q4": "What is the custom development cycle and price for the enterprise edition?",
+      "a4": "Enterprise edition custom development price ranges from tens of thousands to millions of yuan depending on requirement complexity, with development cycle from 2 weeks to 6 months. Our solution consultants will first communicate in-depth with you about your needs, then provide a detailed plan and quote.",
+      "q5": "How is system stability guaranteed? Is data safe?",
+      "a5": "We are based on global infrastructure of Alibaba Cloud and AWS, with system availability reaching 99.99% (enterprise edition), providing SLA service level agreement. Data is encrypted during transmission and storage, certified by ISO 27001 and PCI DSS, with all data regularly backed up."
+    }
+  },
+  "enterprisePage": {
+    "hero": {
+      "title": "Enterprise-Grade Solutions",
+      "subtitle": "Customized cross-border e-commerce solutions tailored for large enterprises, factories and brands",
+      "cta": "Contact Sales Consultant",
+      "clients": "Service Enterprise Clients",
+      "countries": "Countries Covered",
+      "uptime": "System Availability",
+      "support": "Dedicated Support"
+    },
+    "services": {
+      "title": "Customized Service Content",
+      "subtitle": "From basic architecture to operational support, providing full-chain services for enterprises",
+      "custom": {
+        "title": "Customized Function Development",
+        "description": "Based on business needs, customize exclusive functional modules, including but not limited to: customized website building, special business processes, deep integration with internal systems"
+      },
+      "integration": {
+        "title": "System Integration Docking",
+        "description": "Supports two-way data synchronization and integration with enterprise existing ERP, CRM, OMS, WMS and other systems, breaking enterprise information silos, improving operational efficiency"
+      },
+      "security": {
+        "title": "Enterprise-Grade Security & Compliance",
+        "description": "Independent server deployment (supports private cloud/hybrid cloud), advanced data encryption, audit logs, multi-factor authentication, hierarchical permission management, GDPR compliance support"
+      },
+      "global": {
+        "title": "Global Infrastructure",
+        "description": "Global CDN acceleration, multi-region server deployment, localized payment and logistics integration, multilingual and multi-currency support, ensuring global user access experience"
+      },
+      "analytics": {
+        "title": "Advanced Data Analytics",
+        "description": "Custom data dashboards, multi-dimensional business analysis, AI sales forecasting, intelligent product selection recommendations, user profile building, marketing effect attribution analysis"
+      },
+      "dedicated": {
+        "title": "Dedicated Operations Team",
+        "description": "Dedicated account manager, technical support team, operations consultant, regular business reviews, industry trend sharing, helping enterprises achieve continuous growth"
+      }
+    },
+    "cases": {
+      "title": "Success Cases",
+      "subtitle": "Together with many excellent enterprises, creating successful overseas expansion",
+      "case1": {
+        "title": "A Large Furniture Factory",
+        "industry": "Traditional manufacturing industry transforming cross-border e-commerce",
+        "revenue": "Annual GMV Growth",
+        "countries": "Countries Covered"
+      },
+      "case2": {
+        "title": "A Fashion Apparel Brand",
+        "industry": "Brand DTC Independent Site",
+        "efficiency": "Operation Efficiency",
+        "cost": "Operating Cost"
+      },
+      "case3": {
+        "title": "A 3C Digital Brand",
+        "industry": "Amazon + Independent Site Dual-Wheel Drive",
+        "conversion": "Conversion Rate",
+        "satisfaction": "Customer Satisfaction"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Enterprise Overseas Expansion Journey?",
+      "subtitle": "Our enterprise solution consultants will contact you within 24 hours to tailor an overseas expansion solution for you",
+      "button": "Contact Sales Consultant Now"
+    }
+  },
+  "ecosystemPage": {
+    "hero": {
+      "title": "Ecosystem Partner Program",
+      "subtitle": "Work with LeiMall to build a new global cross-border e-commerce ecosystem and share digital trade dividends"
+    },
+    "program": {
+      "title": "Partner Program",
+      "subtitle": "We welcome all types of partners to join the LeiMall ecosystem for mutual benefit and win-win results",
+      "agency": {
+        "title": "Agents / Channel Partners",
+        "description": "Become a regional or industry agent for LeiMall, bring LeiMall's products to your customers, and enjoy generous commission and rebate policies"
+      },
+      "developer": {
+        "title": "Developer / Technology Partners",
+        "description": "Develop plugins and applications on the LeiMall open platform, serve global merchants, and share application sales revenue with LeiMall in proportion"
+      },
+      "education": {
+        "title": "Education / Training Institutions",
+        "description": "Work with LeiMall to build cross-border e-commerce talent training system, use the LeiMall platform for practical teaching, and jointly cultivate industry talents"
+      }
+    },
+    "partners": {
+      "title": "Existing Partner Brands",
+      "subtitle": "Deep cooperative relationships established with top global service providers",
+      "payment": "Payment Partners",
+      "logistics": "Logistics Partners",
+      "marketing": "Marketing Partners",
+      "tech": "Technology Partners"
+    },
+    "process": {
+      "title": "Joining Process",
+      "subtitle": "Simple four steps to become part of the LeiMall ecosystem partner",
+      "step1": {
+        "title": "Submit Application",
+        "desc": "Fill in the partnership intent form, explaining your business type and cooperation direction"
+      },
+      "step2": {
+        "title": "Qualification Review",
+        "desc": "Our partnership development team will review your application within 3 business days"
+      },
+      "step3": {
+        "title": "Solution Communication",
+        "desc": "After passing the review, both parties communicate in-depth to develop a personalized cooperation plan"
+      },
+      "step4": {
+        "title": "Contract Signing",
+        "desc": "Sign cooperation agreement and officially start the mutually beneficial cooperation journey"
+      }
+    },
+    "benefits": {
+      "title": "Partner Benefit Description",
+      "subtitle": "We provide generous returns and comprehensive support for ecosystem partners",
+      "b1": {
+        "title": "Generous Return on Benefits",
+        "desc": "Up to 40% sales commission, 8:2 revenue split for developer application sales"
+      },
+      "b2": {
+        "title": "Marketing Activity Support",
+        "desc": "Jointly organize online and offline activities, providing brand, venue, materials and other multi-party support"
+      },
+      "b3": {
+        "title": "Technical Training Empowerment",
+        "desc": "Provide complete product training, technical documentation, SDK and API support"
+      },
+      "b4": {
+        "title": "Customer Resource Sharing",
+        "desc": "Share potential customer resources and recommend business opportunities to each other"
+      },
+      "b5": {
+        "title": "Brand Endorsement Certification",
+        "desc": "Official certified partner certificate, use LeiMall brand for marketing promotion"
+      },
+      "b6": {
+        "title": "Priority Cooperation Opportunities",
+        "desc": "Priority experience rights for new products and features, joint R&D project opportunities"
+      }
+    }
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "updated": "Last Updated",
+    "intro": {
+      "title": "Introduction",
+      "content": "LeiMall (hereinafter referred to as 'we') attaches great importance to your privacy and personal information protection. This privacy policy details how we collect, use, store, share and protect your personal information. Please read carefully and fully understand the entire content of this policy before using our products and services."
+    },
+    "collection": {
+      "title": "Information We Collect",
+      "content": "We only collect personal information within the scope necessary to provide you with services, mainly including:",
+      "item1": "Account information: Name, email, phone number, company name provided during account registration",
+      "item2": "Transaction information: Order information, payment records, logistics information, invoice information, etc.",
+      "item3": "Device and log information: IP address, browser type, operating system, access time, page access records",
+      "item4": "Usage information: Operation records, configuration preferences generated during your use of our services",
+      "item5": "Other information you actively provide to us: Information actively submitted through forms, emails, customer service, etc."
+    },
+    "usage": {
+      "title": "How Information is Used",
+      "content": "The personal information we collect is mainly used for the following purposes:",
+      "item1": "Provide, maintain and improve our products and services",
+      "item2": "Account registration and identity verification, ensuring account security",
+      "item3": "Process orders, payments and logistics to fulfill your transaction requests",
+      "item4": "Send product updates, service notifications, marketing information (only with your consent)",
+      "item5": "Conduct data analysis and product improvement to optimize user experience",
+      "item6": "Detect, prevent and address security issues, fraud and violations"
+    },
+    "sharing": {
+      "title": "Information Sharing and Disclosure",
+      "content": "We will not sell your personal information to third parties. We may share your information only in the following cases: obtaining your explicit consent; necessary to complete services (such as payment processing, logistics delivery, these partners have strict information protection obligations); legal and regulatory requirements; legitimate requirements of government regulatory authorities."
+    },
+    "security": {
+      "title": "Information Security Protection",
+      "content": "We use industry-leading security measures to protect your personal information, including: full TLS encryption for transmission; sensitive data encrypted storage; strict internal data access permission control; regular security audits and vulnerability scanning; ISO 27001 information security management system certification; PCI DSS payment card industry data security standard certification. Although we have taken reasonable security measures, the internet environment is not 100% secure, and we will do our best to protect your information security."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "content": "According to applicable laws and regulations, you have the following rights regarding your personal information:",
+      "item1": "Right of access: You can query your personal information at any time",
+      "item2": "Right of rectification: You can correct inaccurate or incomplete personal information",
+      "item3": "Right to erasure: Under certain conditions, you can request deletion of your personal information",
+      "item4": "Right to withdraw consent: You can withdraw consent previously given",
+      "item5": "Right to complaint: If you have any dissatisfaction with our privacy protection, you can complain to the regulatory authority"
+    },
+    "cookies": {
+      "title": "Cookies and Similar Technologies",
+      "content": "We use cookies and similar technologies to improve your browsing experience, including remembering your login status and preference settings, conducting anonymous traffic statistics and analysis, providing personalized content and recommendations. You can manage or disable cookies through browser settings, but this may affect the normal use of some functions."
+    },
+    "changes": {
+      "title": "Updates to Privacy Policy",
+      "content": "We may update this privacy policy from time to time to reflect changes in laws or our business practices. Major changes will be notified through website announcements, emails, etc. It is recommended that you regularly check this page for the latest privacy policy content."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions, comments or suggestions regarding this privacy policy or personal information protection, please contact us through the following methods, and we will respond to your request within 15 business days."
+    }
+  },
+  "termsPage": {
+    "title": "Terms of Service",
+    "updated": "Last Updated",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "Welcome to use LeiMall (hereinafter referred to as 'this service'). Before registering an account or using this service, please read the following terms of service (hereinafter referred to as 'these terms') carefully. Your registration or use constitutes your reading, understanding and agreement to accept all content of these terms. If you do not agree with these terms, please do not register or use this service."
+    },
+    "services": {
+      "title": "Service Content",
+      "content": "LeiMall is an AI-driven cross-border e-commerce SaaS platform that provides merchants with services including but not limited to:",
+      "item1": "Independent site building and hosting services",
+      "item2": "Product management, order management and customer management",
+      "item3": "Payment gateway integration and settlement services",
+      "item4": "Logistics service provider integration and order fulfillment",
+      "item5": "Value-added services such as AI smart customer service, smart copywriting, data analysis"
+    },
+    "account": {
+      "title": "Account Registration and Security",
+      "content": "You need to provide true, accurate and complete information when registering an account, and are responsible for the authenticity of the account information. You should properly safeguard account credentials (username and password) and be responsible for all activities under your account. If you find unauthorized use of your account, please notify us immediately. We are not responsible for losses caused by your failure to properly safeguard account information."
+    },
+    "payment": {
+      "title": "Fees and Payments",
+      "content": "Regarding service fees and payment methods, the following terms apply:",
+      "item1": "Service fees for different packages are subject to the public announcement on our official website",
+      "item2": "Fees are paid in advance according to the agreed billing cycle (monthly or annual payment)",
+      "item3": "Except as otherwise provided by laws and regulations, paid fees are generally non-refundable",
+      "item4": "We reserve the right to adjust service fees according to market conditions, but will notify you 30 days in advance"
+    },
+    "conduct": {
+      "title": "User Code of Conduct",
+      "content": "When using this service, you agree to abide by the following code of conduct:",
+      "item1": "Shall not sell or disseminate illegal, infringing, counterfeit and shoddy goods",
+      "item2": "Shall not engage in illegal activities such as fraud, money laundering, terrorist financing",
+      "item3": "Shall not infringe on other people's intellectual property rights, privacy rights, reputation rights and other legitimate rights and interests",
+      "item4": "Shall not send spam emails, conduct cyber attacks or abuse services",
+      "item5": "Shall not plagiarize, decompile, reverse engineer our software",
+      "item6": "Shall not conduct any operations that may damage service stability and security"
+    },
+    "ip": {
+      "title": "Intellectual Property",
+      "content": "All intellectual property rights of LeiMall services (including but not limited to software, code, interface design, trademarks, logos, documents, etc.) belong to LeiMall or its rights holders. You only obtain a limited license to use this service within the scope permitted by these terms, and do not obtain any intellectual property rights transfer."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "This service is provided in the status of 'as is' and 'as available'. We strive to ensure the availability and quality of the service, but make no express or implied warranties for the following matters: uninterrupted availability of service, absolute security of data, applicability for specific commercial purposes, quality and reliability of third-party services. We are not responsible for indirect losses, profit losses, business interruptions, etc."
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": "To the maximum extent permitted by applicable law, LeiMall and its affiliated companies, employees and partners shall not be liable for any indirect losses, incidental losses, special losses, punitive losses or consequential losses. Our total liability for any claim shall not exceed the total service fees you paid us in the past 12 months."
+    },
+    "termination": {
+      "title": "Service Termination",
+      "content": "You can terminate the use of this service at any time through account settings or contacting customer service. If you seriously violate these terms, we have the right to suspend or terminate your account usage rights. After service termination, the data in your account will be processed according to our data retention policy. Refunds after paid service termination shall be implemented according to relevant refund policies."
+    },
+    "governing": {
+      "title": "Governing Law and Dispute Resolution",
+      "content": "The signing, performance, interpretation and dispute resolution of these terms shall be governed by the laws of the People's Republic of China. Any disputes arising from or related to these terms shall be resolved through friendly negotiation between both parties; if negotiation fails, either party shall have the right to file a lawsuit with the competent people's court at the registered address of LeiMall company."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "We reserve the right to modify these terms at any time. After the terms are changed, they will be published on this page and marked with the update date. Major changes will be notified to you via email or in-product notifications. Continuing to use this service constitutes your acceptance of the revised terms."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "content": "If you have any questions about these terms of service, or need to report violations, please contact us at legal@leixos.com."
+    }
+  },
   "solutions": {
     "title": "Full-Scene Global Expansion Solutions",
     "viewAll": "View All →",
@@ -65,13 +1210,13 @@
     },
     "southeastAsia": {
       "title": "Southeast Asia Exclusive",
-      "description": "Deep localization service, China-Laos Railway direct line, 3-day delivery, minor language dedicated operation support",
+      "description": "Deep localization service, China-Laos Railway logistics line, 3-day delivery, minor language dedicated operation support",
       "tag": "First Launch",
       "learnMore": "Learn More →"
     },
     "europe": {
       "title": "Europe & America Solution",
-      "description": "Support Amazon, eBay multi-platform sync, EU & US local warehouses, BNPL payment support",
+      "description": "Support Amazon, eBay multi-platform sync, EU & US local warehouse delivery, BNPL payment support",
       "tag": "Mature Market",
       "learnMore": "Learn More →"
     },
@@ -89,7 +1234,7 @@
     },
     "brand": {
       "title": "Brand DTC",
-      "description": "Independent domain, private domain traffic accumulation, membership system, build long-term brand value",
+      "description": "Independent domain, private domain traffic accumulation, membership system construction, build long-term brand value",
       "tag": "Brand Expansion",
       "learnMore": "Learn More →"
     }

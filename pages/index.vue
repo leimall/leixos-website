@@ -543,13 +543,13 @@
 
 <script setup lang="ts">
 import { useTranslation } from '~/composables/useTranslation'
+import { useSeo } from '~/composables/useSeo'
 
 const { t } = useTranslation()
+const { setPageMeta } = useSeo()
 
-useHead({
+setPageMeta({
   title: 'LeiMall - AI驱动的全球跨境电商SaaS平台',
-  meta: [
-    { name: 'description', content: 'LeiMall是专业的跨境电商SaaS平台，为您提供高效、智能的全球电商解决方案' },
-  ],
+  description: 'LeiMall是专业的跨境电商SaaS平台，3分钟搭建独立站，AI全链路运营，一键卖遍200+国家和地区',
 })
 </script>
