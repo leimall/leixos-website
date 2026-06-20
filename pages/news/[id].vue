@@ -163,7 +163,7 @@ const relatedArticles = computed(() => articles.filter(a => a.id !== currentId.v
 
 watchEffect(() => {
   setPageMeta({
-    title: `${currentArticle.value.title} - LeiMall`,
+    title: `${currentArticle.value.title} - RiGo`,
     description: currentArticle.value.excerpt,
   })
 })

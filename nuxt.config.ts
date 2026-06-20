@@ -17,14 +17,14 @@ export default defineNuxtConfig({
   
   app: {
     head: {
-      title: 'LeiMall - AI驱动的全球跨境电商SaaS平台',
+      title: 'RiGo - AI 一键搭建南洋跨境商城',
       htmlAttrs: {
         lang: 'zh',
       },
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'LeiMall - 面向全球中小企业的一站式AI跨境电商SaaS平台' },
+        { name: 'description', content: 'RiGo - AI 一键搭建南洋跨境商城，面向全球中小企业的一站式AI跨境电商SaaS平台' },
       ],
       link: [
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },

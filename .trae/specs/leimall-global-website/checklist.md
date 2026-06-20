@@ -1,0 +1,10 @@
+- [ ] Homepage all sections are present and styled correctly
+- [ ] All main pages are navigable
+- [ ] Website is responsive on all device sizes
+- [ ] Branding is consistent across all pages
+- [ ] Southeast Asia sections are visually highlighted
+- [ ] Navigation is accessible and responsive
+- [ ] No broken links
+- [ ] All images have alt text
+- [ ] Color contrast meets accessibility standards
+- [ ] All interactive elements have proper hover states

@@ -14,8 +14,8 @@ export const newsData: NewsItem[] = [
   {
     id: 1,
     category: 'project',
-    title_zh: 'LeiMall AI智能选品系统正式上线，助力商家精准选品',
-    title_en: 'LeiMall AI Product Selection System Officially Launched',
+    title_zh: 'RiGo AI智能选品系统正式上线，助力商家精准选品',
+    title_en: 'RiGo AI Product Selection System Officially Launched',
     date: '2026-06-06',
     excerpt_zh: '基于大语言模型和海量交易数据，AI智能选品系统可精准预测东南亚市场热销趋势，帮助商家降低选品风险30%以上。',
     excerpt_en: 'Based on LLM and massive transaction data, AI product selection system accurately predicts Southeast Asia market trends, helping merchants reduce selection risk by over 30%.',
@@ -23,8 +23,8 @@ export const newsData: NewsItem[] = [
   {
     id: 2,
     category: 'project',
-    title_zh: 'LeiMall与泰国最大电商平台达成战略合作',
-    title_en: 'LeiMall Establishes Strategic Partnership with Thailand\'s Largest E-commerce Platform',
+    title_zh: 'RiGo与泰国最大电商平台达成战略合作',
+    title_en: 'RiGo Establishes Strategic Partnership with Thailand\'s Largest E-commerce Platform',
     date: '2026-05-28',
     excerpt_zh: '双方将在技术对接、流量共享、物流协同等方面深度合作，为中国商家出海泰国市场提供一站式解决方案。',
     excerpt_en: 'Both parties will cooperate in technical integration, traffic sharing, and logistics collaboration, providing one-stop solutions for Chinese merchants entering the Thai market.',
@@ -44,8 +44,8 @@ export const newsData: NewsItem[] = [
     title_zh: '全球物流追踪系统正式启用，实现全链路可视化',
     title_en: 'Global Logistics Tracking System Officially Enabled',
     date: '2026-04-20',
-    excerpt_zh: '整合全球主流物流服务商数据，商家可在LeiMall后台实时追踪包裹状态，提升客户服务体验。',
-    excerpt_en: 'Integrated data from global logistics providers. Merchants can track package status in real-time from LeiMall dashboard, improving customer service experience.',
+    excerpt_zh: '整合全球主流物流服务商数据，商家可在RiGo后台实时追踪包裹状态，提升客户服务体验。',
+    excerpt_en: 'Integrated data from global logistics providers. Merchants can track package status in real-time from RiGo dashboard, improving customer service experience.',
   },
   {
     id: 5,
@@ -53,8 +53,8 @@ export const newsData: NewsItem[] = [
     title_zh: '印尼市场开放政策利好，跨境电商迎来新机遇',
     title_en: 'Indonesia Market Policy Benefits, Cross-border E-commerce Sees New Opportunities',
     date: '2026-06-01',
-    excerpt_zh: '印尼政府发布最新跨境电商扶持政策，降低外资准入门槛，LeiMall将加大印尼市场投入，为商家提供本地化服务。',
-    excerpt_en: 'Indonesian government released new cross-border e-commerce support policies, lowering foreign investment thresholds. LeiMall will increase investment in the Indonesian market.',
+    excerpt_zh: '印尼政府发布最新跨境电商扶持政策，降低外资准入门槛，RiGo将加大印尼市场投入，为商家提供本地化服务。',
+    excerpt_en: 'Indonesian government released new cross-border e-commerce support policies, lowering foreign investment thresholds. RiGo will increase investment in the Indonesian market.',
   },
   {
     id: 6,
@@ -80,8 +80,8 @@ export const newsData: NewsItem[] = [
     title_zh: '菲律宾社交媒体电商爆发式增长，社交购物成主流',
     title_en: 'Philippines Social Media E-commerce Explosive Growth',
     date: '2026-04-25',
-    excerpt_zh: '菲律宾社交媒体用户突破8000万，社交电商成为新增长点，LeiMall推出社交电商一体化解决方案。',
-    excerpt_en: 'Philippines social media users exceed 80 million, social e-commerce becomes a new growth area. LeiMall launches integrated social e-commerce solutions.',
+    excerpt_zh: '菲律宾社交媒体用户突破8000万，社交电商成为新增长点，RiGo推出社交电商一体化解决方案。',
+    excerpt_en: 'Philippines social media users exceed 80 million, social e-commerce becomes a new growth area. RiGo launches integrated social e-commerce solutions.',
   },
   {
     id: 9,
@@ -89,8 +89,8 @@ export const newsData: NewsItem[] = [
     title_zh: 'AI大模型重塑跨境电商，智能化运营成行业标配',
     title_en: 'AI LLMs Reshape Cross-border E-commerce',
     date: '2026-06-03',
-    excerpt_zh: '从智能客服、内容生成到需求预测，AI大模型正在全方位赋能跨境电商，LeiMall率先实现全链路AI智能化。',
-    excerpt_en: 'From intelligent customer service and content generation to demand forecasting, AI LLMs are empowering cross-border e-commerce. LeiMall leads in full-stack AI intelligence.',
+    excerpt_zh: '从智能客服、内容生成到需求预测，AI大模型正在全方位赋能跨境电商，RiGo率先实现全链路AI智能化。',
+    excerpt_en: 'From intelligent customer service and content generation to demand forecasting, AI LLMs are empowering cross-border e-commerce. RiGo leads in full-stack AI intelligence.',
   },
   {
     id: 10,
@@ -116,8 +116,8 @@ export const newsData: NewsItem[] = [
     title_zh: '跨境支付技术创新，多币种结算成核心竞争力',
     title_en: 'Cross-border Payment Innovation, Multi-currency Settlement as Core Competency',
     date: '2026-05-01',
-    excerpt_zh: '支付服务商推出实时汇率、低手续费解决方案，LeiMall统一支付网关支持20+币种即时结算，降低商家汇损。',
-    excerpt_en: 'Payment providers launch real-time exchange rate and low-fee solutions. LeiMall unified payment gateway supports 20+ currencies instant settlement, reducing FX loss.',
+    excerpt_zh: '支付服务商推出实时汇率、低手续费解决方案，RiGo统一支付网关支持20+币种即时结算，降低商家汇损。',
+    excerpt_en: 'Payment providers launch real-time exchange rate and low-fee solutions. RiGo unified payment gateway supports 20+ currencies instant settlement, reducing FX loss.',
   },
 ]
 

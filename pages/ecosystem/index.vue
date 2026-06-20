@@ -196,7 +196,7 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '生态伙伴 - LeiMall | 共建全球跨境电商生态',
-  description: '加入 LeiMall 生态伙伴计划，共建全球跨境电商生态，实现合作共赢，共享数字贸易红利',
+  title: '生态伙伴 - RiGo | 共建全球跨境电商生态',
+  description: '加入 RiGo 生态伙伴计划，共建全球跨境电商生态，实现合作共赢，共享数字贸易红利',
 })
 </script>

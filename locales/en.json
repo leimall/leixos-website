@@ -12,8 +12,8 @@
     "freeTrial": "Free Trial"
   },
   "hero": {
-    "title": "LeiMall - AI-Powered Global Cross-Border E-Commerce SaaS Platform",
-    "subtitle": "Build independent site in 3 minutes · AI full-stack operation · Sell to 200+ countries and regions",
+    "title": "RiGo - Build Your Southeast Asia Cross-Border Mall with AI in One Click",
+    "subtitle": "Build Southeast Asia Cross-Border Mall with AI in One Click · Fast Launch in 3 Minutes · Sell Across Southeast Asia and Beyond",
     "cta": "Free Trial",
     "watchDemo": "Watch Demo",
     "governmentBar": "✦ Key Project of Chenggong Digital Town ✦ China-Laos Railway Logistics Corridor ✦ South & Southeast Asia Hub"
@@ -28,7 +28,7 @@
   },
   "about": {
     "title": "Global Infrastructure for SMEs to Go Global",
-    "description1": "LeiMall (leixos.com) is China's leading AI-powered cross-border e-commerce multi-tenant SaaS platform. As a key project of Kunming Chenggong Digital Town, we are committed to providing low-cost, efficient, intelligent one-stop global solutions for SMEs worldwide.",
+    "description1": "RiGo (rigo.com) is the leading platform to build your Southeast Asia cross-border mall with AI in one click. As a key project of Kunming Chenggong Digital Town, we are committed to providing low-cost, efficient, intelligent one-stop global solutions for SMEs.",
     "description2": "With a plug-in microservice architecture and prepaid fund management system, we integrate global mainstream payment, logistics, and marketing resources, deeply adapting to core markets like Southeast Asia, Europe, America, and the Middle East. Leveraging Yunnan's geographical advantage as South & Southeast Asia hub and China-Laos Railway logistics corridor, we have created industry-leading Southeast Asia-specific solutions to help Chinese enterprises, especially Yunnan local enterprises, rapidly explore global markets.",
     "southeastAsia": "Southeast Asia First Launch Market",
     "globalCoverage": "Global Coverage"
@@ -59,8 +59,8 @@
   },
   "featuresPage": {
     "hero": {
-      "title": "Complete Multi-Tenant Cross-Border E-Commerce Platform Architecture",
-      "subtitle": "Based on Shopify/Shopline leading platform architecture, 6 clearly defined layers, fully compatible with OAuth2.0 authentication + hybrid multilingual framework, building enterprise-grade one-stop cross-border e-commerce solutions",
+      "title": "Build Your Southeast Asia Cross-Border Mall with AI - Complete Architecture",
+      "subtitle": "AI-powered multi-tenant architecture with 6 clearly defined layers, build your own Southeast Asia cross-border mall in one click",
       "cta": "Free Trial",
       "layers": "Core Architecture Layers",
       "modules": "Feature Modules",
@@ -498,7 +498,7 @@
   "solutionsPage": {
     "hero": {
       "title": "Full-Scene Global Expansion Solutions",
-      "subtitle": "From factory export to brand DTC, from Southeast Asia to Europe and America, LeiMall provides tailor-made solutions",
+      "subtitle": "Build your Southeast Asia cross-border mall with AI in one click, from factory export to brand DTC, RiGo provides tailor-made solutions",
       "cta": "Consult Now",
       "global": "Global Solution",
       "countries": "Countries Covered",
@@ -610,23 +610,23 @@
   },
   "aboutPage": {
     "hero": {
-      "title": "Let SMEs Sell Worldwide",
+      "title": "Let SMEs Sell Worldwide with AI in One Click",
       "subtitle": "We are a team of passionate entrepreneurs committed to using technology to break down borders and make it easy for every small and medium enterprise to reach the world",
       "merchants": "Service Merchants",
       "countries": "Countries Covered",
       "exports": "Driven Exports",
       "mission": "Our Mission",
-      "missionDesc": "Through technological innovation and resource integration, provide low-cost, high-efficiency cross-border e-commerce solutions for global SMEs",
+      "missionDesc": "Through AI innovation and resource integration, provide low-cost, high-efficiency Southeast Asia cross-border e-commerce solutions for global SMEs",
       "vision": "Our Vision",
-      "visionDesc": "Become the world's leading AI-driven cross-border e-commerce SaaS platform, building a borderless digital trade ecosystem"
+      "visionDesc": "Become the world's leading Southeast Asia cross-border e-commerce AI platform, building a borderless digital trade ecosystem"
     },
     "timeline": {
       "title": "Development Journey",
       "subtitle": "From startup to industry leader, every step creates value",
       "founded": "Company Founded",
-      "foundedDesc": "LeiMall founded in Kunming, received angel round investment, assembled core technical team",
+      "foundedDesc": "RiGo founded in Kunming, focusing on building Southeast Asia cross-border mall with AI in one click, received angel round investment",
       "launch": "Product Launch",
-      "launchDesc": "LeiMall V1.0 officially launched, first batch of 100 merchants onboarded, service covering 5 Southeast Asian countries",
+      "launchDesc": "RiGo V1.0 officially launched, build Southeast Asia cross-border mall with AI in one click, first batch of 100 merchants onboarded",
       "expansion": "Business Expansion",
       "expansionDesc": "Completed Series A financing, business expanded to European and American markets, merchant count exceeded 5000",
       "ai": "AI Empowerment",
@@ -685,7 +685,7 @@
   "newsPage": {
     "hero": {
       "title": "News Center",
-      "subtitle": "Learn about LeiMall latest updates, industry news and market insights"
+      "subtitle": "Learn about RiGo Southeast Asia Cross-Border Mall latest updates, industry news and market insights"
     },
     "categories": {
       "all": "All",
@@ -699,24 +699,24 @@
     },
     "articles": {
       "a1": {
-        "title": "LeiMall Officially Applies for Chenggong Digital Town Key Project Status",
-        "excerpt": "Recently, LeiMall officially submitted an application to Kunming Chenggong District Government to be included as a key cultivation project of the digital town, receiving dual support in policy and funding"
+        "title": "RiGo Officially Applies for Chenggong Digital Town Key Project Status",
+        "excerpt": "Recently, RiGo officially submitted an application to Kunming Chenggong District Government to be included as a key cultivation project of the digital town, receiving dual support in policy and funding"
       },
       "a2": {
-        "title": "LeiMall Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced by Another 20%",
-        "excerpt": "Through deep cooperation with China-Laos Railway, LeiMall launches a brand new Southeast Asia exclusive solution, helping merchants reduce logistics costs by 20%"
+        "title": "RiGo Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced by Another 20%",
+        "excerpt": "Through deep cooperation with China-Laos Railway, RiGo launches a brand new Southeast Asia exclusive solution, helping merchants reduce logistics costs by 20%"
       },
       "a3": {
         "title": "China's Cross-Border E-Commerce Imports and Exports Exceed 2.3 Trillion Yuan in 2026",
         "excerpt": "According to the latest data from the General Administration of Customs, China's cross-border e-commerce imports and exports have exceeded 2.3 trillion yuan in 2026, a year-on-year increase of 15.6%"
       },
       "a4": {
-        "title": "LeiMall AI Smart Customer Service Officially Launched, Supporting 20+ Languages",
-        "excerpt": "LeiMall AI smart customer service built on the latest large language model is now commercially available, improving merchant customer service efficiency by 80%"
+        "title": "RiGo AI Smart Customer Service Officially Launched, Supporting 20+ Languages",
+        "excerpt": "RiGo AI smart customer service built on the latest large language model is now commercially available, improving merchant customer service efficiency by 80%"
       },
       "a5": {
-        "title": "Vietnam Market Insights: LeiMall Vietnam Local Payment Channels Fully Launched",
-        "excerpt": "LeiMall has completed integration with major Vietnam payment institutions, including mainstream e-wallets such as Momo, ZaloPay, VNPay"
+        "title": "Vietnam Market Insights: RiGo Vietnam Local Payment Channels Fully Launched",
+        "excerpt": "RiGo has completed integration with major Vietnam payment institutions, including mainstream e-wallets such as Momo, ZaloPay, VNPay"
       },
       "a6": {
         "title": "Cross-Border E-Commerce Compliance Guide: Complete Guide to European VAT Declaration",
@@ -732,23 +732,23 @@
     "related": "Related News",
     "articles": {
       "a1": {
-        "title": "LeiMall Officially Applies for Chenggong Digital Town Key Project Status",
-        "excerpt": "Recently, LeiMall officially submitted an application to the Kunming Chenggong District Government",
-        "content1": "Recently, LeiMall officially submitted an application to the Kunming Chenggong District Government to be included as a key cultivation project of the digital town. As an AI-driven cross-border e-commerce SaaS platform, LeiMall's development has received high attention from the government.",
+        "title": "RiGo Officially Applies for Chenggong Digital Town Key Project Status",
+        "excerpt": "Recently, RiGo officially submitted an application to the Kunming Chenggong District Government",
+        "content1": "Recently, RiGo officially submitted an application to the Kunming Chenggong District Government to be included as a key cultivation project. As a platform to build Southeast Asia cross-border mall with AI in one click, RiGo's development has received high attention from the government.",
         "content2": "Chenggong Digital Town is a key digital economy industrial park built by Yunnan Province, planning to cultivate more than 100 leading digital economy enterprises within 5 years, forming a hundred-billion-yuan industrial cluster. Key cultivation projects will enjoy multiple policy dividends including tax incentives, financial support, venue support, and talent policies.",
-        "content3": "With advanced technical architecture, innovative business model and significant social value, LeiMall has been highly recognized by review experts. The company plans to invest 150 million yuan in the next 3 years to build cross-border e-commerce infrastructure covering South and Southeast Asia.",
-        "content4": "If this application is approved, LeiMall will receive key government support to accelerate product R&D and market expansion, providing high-quality overseas expansion services for more SMEs. At the same time, relying on the China-Laos Railway logistics corridor, the company will build a new digital trade channel for Southeast Asia.",
+        "content3": "With advanced AI architecture, innovative Southeast Asia cross-border mall business model and significant social value, RiGo has been highly recognized by review experts. The company plans to invest 150 million yuan in the next 3 years to build cross-border e-commerce infrastructure covering South and Southeast Asia.",
+        "content4": "If this application is approved, RiGo will receive key government support to accelerate the R&D and market expansion of our AI-powered Southeast Asia cross-border mall, providing high-quality overseas expansion services for more SMEs. At the same time, relying on the China-Laos Railway logistics corridor, the company will build a new digital trade channel for Southeast Asia.",
         "highlight1": "Tax reduction policy: 3-year corporate income tax reduction",
         "highlight2": "Financial support: Up to 10 million yuan special subsidy",
         "highlight3": "Talent policy: High-end talent individual tax refund and housing subsidy"
       },
       "a2": {
-        "title": "LeiMall Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced Again by 20%",
-        "excerpt": "Through deep cooperation with China-Laos Railway, LeiMall launches brand new Southeast Asia exclusive solution",
-        "content1": "Today, LeiMall officially released a new upgraded Southeast Asia exclusive solution. Through in-depth strategic cooperation with China-Laos Railway, it helps merchants reduce logistics costs by more than 20%.",
-        "content2": "As a landmark project of the Belt and Road Initiative, the China-Laos Railway has accumulated more than 20 million tons of goods since its opening, becoming a golden logistics channel from China to Southeast Asia. LeiMall has signed a strategic cooperation agreement with China-Laos Railway Company to obtain exclusive cabin space and preferential rates.",
+        "title": "RiGo Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced Again by 20%",
+        "excerpt": "Through deep cooperation with China-Laos Railway, RiGo launches brand new Southeast Asia exclusive solution",
+        "content1": "Today, RiGo officially released a new upgraded Southeast Asia exclusive solution. Through in-depth strategic cooperation with China-Laos Railway, it helps merchants reduce logistics costs by more than 20%.",
+        "content2": "As a landmark project of the Belt and Road Initiative, the China-Laos Railway has accumulated more than 20 million tons of goods since its opening, becoming a golden logistics channel from China to Southeast Asia. RiGo has signed a strategic cooperation agreement with China-Laos Railway Company to obtain exclusive cabin space and preferential rates.",
         "content3": "The new solution includes not only logistics lines, but also integrates Southeast Asia local payment (GrabPay, GoPay, Momo, etc.), minor language customer service, local warehousing and COD cash-on-delivery and other full services, helping merchants to expand Southeast Asian markets in one stop.",
-        "content4": "Data shows that Southeast Asian Internet economy is expected to reach 600 billion US dollars by 2026, making it one of the fastest growing e-commerce markets in the world. LeiMall's Southeast Asia exclusive solution will help Chinese enterprises, especially local Yunnan enterprises, to seize this historic opportunity.",
+        "content4": "Data shows that Southeast Asian Internet economy is expected to reach 600 billion US dollars by 2026, making it one of the fastest growing e-commerce markets in the world. RiGo's Southeast Asia exclusive solution will help Chinese enterprises, especially local Yunnan enterprises, to seize this historic opportunity.",
         "highlight1": "China-Laos Railway exclusive logistics line, timeliness improved to 3-5 days",
         "highlight2": "Comprehensive coverage of Thailand, Vietnam, Indonesia, Malaysia four major markets",
         "highlight3": "Local payment methods such as Momo, ZaloPay, GrabPay fully connected"
@@ -765,23 +765,23 @@
         "highlight3": "AI-driven refined operation becomes new industry trend"
       },
       "a4": {
-        "title": "LeiMall AI Smart Customer Service Officially Launched, Supporting 20+ Languages",
-        "excerpt": "LeiMall AI smart customer service built on the latest large language model is now commercially available",
-        "content1": "LeiMall AI smart customer service system is now officially open to all merchants. Based on the latest large language model technology, combined with LeiMall's massive cross-border e-commerce data training, it supports automatic reply and customer consultation processing in 20+ languages.",
+        "title": "RiGo AI Smart Customer Service Officially Launched, Supporting 20+ Languages",
+        "excerpt": "RiGo AI smart customer service built on the latest large language model is now commercially available",
+        "content1": "RiGo AI smart customer service system is now officially open to all merchants. Based on the latest large language model technology, combined with RiGo's massive cross-border e-commerce data training, it supports automatic reply and customer consultation processing in 20+ languages.",
         "content2": "The system has strong intent recognition capabilities, able to accurately understand customer consultation content (order inquiries, logistics tracking, returns and exchanges, product consultations, etc.), and provide appropriate replies. For complex issues, the system will automatically transfer to manual customer service and provide contextual information.",
-        "content3": "Internal test data shows that LeiMall AI smart customer service can handle more than 80% of common customer consultations, shortening first response time to within 5 seconds, customer satisfaction reaching more than 95%, significantly reducing merchants' customer service labor costs.",
-        "content4": "Currently, AI smart customer service is free for LeiMall professional and enterprise customers, basic edition customers can use it with pay-as-you-go. More AI capabilities such as AI product description generation, AI ad copywriting will be launched in the future.",
+        "content3": "Internal test data shows that RiGo AI smart customer service can handle more than 80% of common customer consultations, shortening first response time to within 5 seconds, customer satisfaction reaching more than 95%, significantly reducing merchants' customer service labor costs.",
+        "content4": "Currently, AI smart customer service is free for RiGo professional and enterprise customers, basic edition customers can use it with pay-as-you-go. More AI capabilities such as AI product description generation, AI ad copywriting will be launched in the future.",
         "highlight1": "Supports 20+ languages including English, Thai, Vietnamese, Indonesian",
         "highlight2": "Handles 80% of common consultations, first response time within 5 seconds",
         "highlight3": "Free for professional and enterprise customers"
       },
       "a5": {
-        "title": "Vietnam Market Insights: LeiMall Vietnam Local Payment Channels Fully Launched",
-        "excerpt": "LeiMall has completed docking with major Vietnam payment institutions",
-        "content1": "LeiMall today announced the full completion of Vietnam local payment channel docking, including mainstream e-wallets such as Momo, ZaloPay, VNPay, AirPay, as well as online banking and ATM card payment for major Vietnamese banks.",
+        "title": "Vietnam Market Insights: RiGo Vietnam Local Payment Channels Fully Launched",
+        "excerpt": "RiGo has completed docking with major Vietnam payment institutions",
+        "content1": "RiGo today announced the full completion of Vietnam local payment channel docking, including mainstream e-wallets such as Momo, ZaloPay, VNPay, AirPay, as well as online banking and ATM card payment for major Vietnamese banks.",
         "content2": "Vietnam is one of the fastest growing e-commerce markets in Southeast Asia, with over 70 million internet users and rapidly rising e-commerce penetration. Due to low credit card penetration, e-wallets and bank transfers are the primary payment methods for Vietnamese consumers.",
-        "content3": "Previously, many Chinese merchants missed out on large orders due to inability to access Vietnamese local payments. LeiMall's Vietnam local payment solution enables merchants to easily accept payments from Vietnamese consumers just like local Vietnamese enterprises, with automatic exchange rate conversion and settlement.",
-        "content4": "In addition to payment channels, LeiMall also provides a complete localized solution for the Vietnamese market, including Vietnamese interface, Vietnam local logistics line, Vietnam local warehousing, Vietnam SEO optimization, helping merchants develop the Vietnamese market in one stop.",
+        "content3": "Previously, many Chinese merchants missed out on large orders due to inability to access Vietnamese local payments. RiGo's Vietnam local payment solution enables merchants to easily accept payments from Vietnamese consumers just like local Vietnamese enterprises, with automatic exchange rate conversion and settlement.",
+        "content4": "In addition to payment channels, RiGo also provides a complete localized solution for the Vietnamese market, including Vietnamese interface, Vietnam local logistics line, Vietnam local warehousing, Vietnam SEO optimization, helping merchants develop the Vietnamese market in one stop.",
         "highlight1": "Supports mainstream e-wallets such as Momo, ZaloPay, VNPay",
         "highlight2": "Supports online banking and ATM card payments for major Vietnamese banks",
         "highlight3": "T+3 fast settlement, supports RMB/USD withdrawal"
@@ -802,7 +802,7 @@
   "contactPage": {
     "hero": {
       "title": "Business Consultation",
-      "subtitle": "We look forward to every conversation with you, whether you are consulting products, seeking cooperation, or joining us"
+      "subtitle": "Build Your Southeast Asia Cross-Border Mall with AI in One Click - We look forward to every conversation with you"
     },
     "info": {
       "title": "Contact Information",
@@ -1001,22 +1001,22 @@
   "ecosystemPage": {
     "hero": {
       "title": "Ecosystem Partner Program",
-      "subtitle": "Work with LeiMall to build a new global cross-border e-commerce ecosystem and share digital trade dividends"
+      "subtitle": "Work with RiGo to build a new global cross-border e-commerce ecosystem and share digital trade dividends"
     },
     "program": {
       "title": "Partner Program",
-      "subtitle": "We welcome all types of partners to join the LeiMall ecosystem for mutual benefit and win-win results",
+      "subtitle": "We welcome all types of partners to join the RiGo ecosystem for mutual benefit and win-win results",
       "agency": {
         "title": "Agents / Channel Partners",
-        "description": "Become a regional or industry agent for LeiMall, bring LeiMall's products to your customers, and enjoy generous commission and rebate policies"
+        "description": "Become a regional or industry agent for RiGo, bring RiGo's products to your customers, and enjoy generous commission and rebate policies"
       },
       "developer": {
         "title": "Developer / Technology Partners",
-        "description": "Develop plugins and applications on the LeiMall open platform, serve global merchants, and share application sales revenue with LeiMall in proportion"
+        "description": "Develop plugins and applications on the RiGo open platform, serve global merchants, and share application sales revenue with RiGo in proportion"
       },
       "education": {
         "title": "Education / Training Institutions",
-        "description": "Work with LeiMall to build cross-border e-commerce talent training system, use the LeiMall platform for practical teaching, and jointly cultivate industry talents"
+        "description": "Work with RiGo to build cross-border e-commerce talent training system, use the RiGo platform for practical teaching, and jointly cultivate industry talents"
       }
     },
     "partners": {
@@ -1029,7 +1029,7 @@
     },
     "process": {
       "title": "Joining Process",
-      "subtitle": "Simple four steps to become part of the LeiMall ecosystem partner",
+      "subtitle": "Simple four steps to become part of the RiGo ecosystem partner",
       "step1": {
         "title": "Submit Application",
         "desc": "Fill in the partnership intent form, explaining your business type and cooperation direction"
@@ -1068,7 +1068,7 @@
       },
       "b5": {
         "title": "Brand Endorsement Certification",
-        "desc": "Official certified partner certificate, use LeiMall brand for marketing promotion"
+        "desc": "Official certified partner certificate, use RiGo brand for marketing promotion"
       },
       "b6": {
         "title": "Priority Cooperation Opportunities",
@@ -1081,7 +1081,7 @@
     "updated": "Last Updated",
     "intro": {
       "title": "Introduction",
-      "content": "LeiMall (hereinafter referred to as 'we') attaches great importance to your privacy and personal information protection. This privacy policy details how we collect, use, store, share and protect your personal information. Please read carefully and fully understand the entire content of this policy before using our products and services."
+      "content": "RiGo (hereinafter referred to as 'we') attaches great importance to your privacy and personal information protection. This privacy policy details how we collect, use, store, share and protect your personal information. Please read carefully and fully understand the entire content of this policy before using our products and services."
     },
     "collection": {
       "title": "Information We Collect",
@@ -1137,11 +1137,11 @@
     "updated": "Last Updated",
     "acceptance": {
       "title": "Acceptance of Terms",
-      "content": "Welcome to use LeiMall (hereinafter referred to as 'this service'). Before registering an account or using this service, please read the following terms of service (hereinafter referred to as 'these terms') carefully. Your registration or use constitutes your reading, understanding and agreement to accept all content of these terms. If you do not agree with these terms, please do not register or use this service."
+      "content": "Welcome to use RiGo (hereinafter referred to as 'this service'). Before registering an account or using this service, please read the following terms of service (hereinafter referred to as 'these terms') carefully. Your registration or use constitutes your reading, understanding and agreement to accept all content of these terms. If you do not agree with these terms, please do not register or use this service."
     },
     "services": {
       "title": "Service Content",
-      "content": "LeiMall is an AI-driven cross-border e-commerce SaaS platform that provides merchants with services including but not limited to:",
+      "content": "RiGo is an AI-driven cross-border e-commerce SaaS platform that provides merchants with services including but not limited to:",
       "item1": "Independent site building and hosting services",
       "item2": "Product management, order management and customer management",
       "item3": "Payment gateway integration and settlement services",
@@ -1172,7 +1172,7 @@
     },
     "ip": {
       "title": "Intellectual Property",
-      "content": "All intellectual property rights of LeiMall services (including but not limited to software, code, interface design, trademarks, logos, documents, etc.) belong to LeiMall or its rights holders. You only obtain a limited license to use this service within the scope permitted by these terms, and do not obtain any intellectual property rights transfer."
+      "content": "All intellectual property rights of RiGo services (including but not limited to software, code, interface design, trademarks, logos, documents, etc.) belong to RiGo or its rights holders. You only obtain a limited license to use this service within the scope permitted by these terms, and do not obtain any intellectual property rights transfer."
     },
     "disclaimer": {
       "title": "Disclaimer",
@@ -1180,7 +1180,7 @@
     },
     "liability": {
       "title": "Limitation of Liability",
-      "content": "To the maximum extent permitted by applicable law, LeiMall and its affiliated companies, employees and partners shall not be liable for any indirect losses, incidental losses, special losses, punitive losses or consequential losses. Our total liability for any claim shall not exceed the total service fees you paid us in the past 12 months."
+      "content": "To the maximum extent permitted by applicable law, RiGo and its affiliated companies, employees and partners shall not be liable for any indirect losses, incidental losses, special losses, punitive losses or consequential losses. Our total liability for any claim shall not exceed the total service fees you paid us in the past 12 months."
     },
     "termination": {
       "title": "Service Termination",
@@ -1188,7 +1188,7 @@
     },
     "governing": {
       "title": "Governing Law and Dispute Resolution",
-      "content": "The signing, performance, interpretation and dispute resolution of these terms shall be governed by the laws of the People's Republic of China. Any disputes arising from or related to these terms shall be resolved through friendly negotiation between both parties; if negotiation fails, either party shall have the right to file a lawsuit with the competent people's court at the registered address of LeiMall company."
+      "content": "The signing, performance, interpretation and dispute resolution of these terms shall be governed by the laws of the People's Republic of China. Any disputes arising from or related to these terms shall be resolved through friendly negotiation between both parties; if negotiation fails, either party shall have the right to file a lawsuit with the competent people's court at the registered address of RiGo company."
     },
     "changes": {
       "title": "Changes to Terms",
@@ -1196,7 +1196,7 @@
     },
     "contact": {
       "title": "Contact Information",
-      "content": "If you have any questions about these terms of service, or need to report violations, please contact us at legal@leixos.com."
+      "content": "If you have any questions about these terms of service, or need to report violations, please contact us at legal@rigo.com."
     }
   },
   "solutions": {
@@ -1253,8 +1253,8 @@
     "project": "Project Updates",
     "regional": "Regional News",
     "industry": "Industry News",
-    "news1": "LeiMall Officially Applies for Chenggong Digital Town Key Project Status",
-    "news2": "LeiMall Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced by Another 20%",
+    "news1": "RiGo Officially Applies for Chenggong Digital Town Key Project Status",
+    "news2": "RiGo Southeast Asia Exclusive Solution Launches, China-Laos Railway Logistics Cost Reduced by Another 20%",
     "news3": "China's Cross-Border E-Commerce Imports and Exports Exceed 2.3 Trillion Yuan in 2026"
   },
   "partners": {
@@ -1267,10 +1267,10 @@
   },
   "footer": {
     "company": {
-      "name": "LeiMall",
+      "name": "RiGo",
       "description": "AI-powered global cross-border e-commerce SaaS platform, helping SMEs sell worldwide",
       "hotline": "Global Hotline: +86 871-XXXXXXX",
-      "email": "Email: contact@leixos.com",
+      "email": "Email: contact@rigo.com",
       "address": "Headquarters: Digital Economy Industrial Park, Chenggong, Kunming, Yunnan, China"
     },
     "product": {
@@ -1297,6 +1297,6 @@
       "qrcode": "QR Code",
       "scanHint": "Scan to follow our official account for latest news"
     },
-    "copyright": "© 2026 LeiMall Yunnan Leimao Technology Co., Ltd. All Rights Reserved"
+    "copyright": "© 2026 RiGo Yunnan Leimao Technology Co., Ltd. All Rights Reserved"
   }
 }

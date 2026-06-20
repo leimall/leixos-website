@@ -82,7 +82,7 @@
           <div>
             <h2 class="text-2xl font-bold text-dark-gray mb-4">{{ t('privacyPage.contact.title') }}</h2>
             <p class="text-mid-gray leading-relaxed">{{ t('privacyPage.contact.content') }}</p>
-            <p class="text-primary font-semibold mt-4">privacy@leixos.com</p>
+            <p class="text-primary font-semibold mt-4">privacy@rigo.com</p>
           </div>
         </article>
       </div>
@@ -101,7 +101,7 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '隐私政策 - LeiMall',
-  description: 'LeiMall 隐私政策 - 了解我们如何收集、使用和保护您的个人信息',
+  title: '隐私政策 - RiGo',
+  description: 'RiGo 隐私政策 - 了解我们如何收集、使用和保护您的个人信息',
 })
 </script>

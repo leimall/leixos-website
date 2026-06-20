@@ -33,7 +33,7 @@
                 </div>
                 <div>
                   <h4 class="font-semibold text-dark-gray mb-1">{{ t('contactPage.info.email') }}</h4>
-                  <p class="text-mid-gray">contact@leixos.com</p>
+                  <p class="text-mid-gray">contact@rigo.com</p>
                 </div>
               </div>
               <div class="flex items-start space-x-4">
@@ -189,8 +189,8 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '合作咨询 - LeiMall | 立即联系我们',
-  description: '联系 LeiMall，获取专业的跨境电商解决方案咨询服务，我们的客户经理将在24小时内与您联系',
+  title: '合作咨询 - RiGo | 立即联系我们',
+  description: '联系 RiGo，获取专业的跨境电商解决方案咨询服务，我们的客户经理将在24小时内与您联系',
 })
 
 const form = ref({

@@ -101,8 +101,8 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '新闻中心 - LeiMall | 行业动态与项目进展',
-  description: 'LeiMall 最新项目动态、区域资讯和行业新闻，了解跨境电商SaaS平台的最新发展',
+  title: '新闻中心 - RiGo | 行业动态与项目进展',
+  description: 'RiGo 最新项目动态、区域资讯和行业新闻，了解跨境电商SaaS平台的最新发展',
 })
 
 const activeCategory = ref('all')

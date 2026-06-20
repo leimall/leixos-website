@@ -273,7 +273,7 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '关于我们 - LeiMall | AI跨境电商平台',
-  description: 'LeiMall 是领先的AI驱动跨境电商SaaS平台，致力于为全球中小企业提供低成本、高效率的出海解决方案',
+  title: '关于我们 - RiGo | AI跨境电商平台',
+  description: 'RiGo 是领先的AI驱动跨境电商SaaS平台，致力于为全球中小企业提供低成本、高效率的出海解决方案',
 })
 </script>

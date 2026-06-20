@@ -362,7 +362,7 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '解决方案 - LeiMall | 不同规模企业的全球出海方案',
-  description: 'LeiMall提供全球通用、东南亚专属、欧美市场、工厂出海、贸易商转型、品牌DTC等六大解决方案',
+  title: '解决方案 - RiGo | AI 一键搭建南洋跨境商城',
+  description: 'RiGo提供南洋跨境商城等六大解决方案，AI一键搭建您的全球出海平台',
 })
 </script>

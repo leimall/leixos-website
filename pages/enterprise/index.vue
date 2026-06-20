@@ -183,7 +183,7 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '企业服务 - LeiMall | 定制化跨境电商解决方案',
-  description: 'LeiMall 为大型企业提供定制化的跨境电商解决方案，包括定制开发、系统集成、专属服务等',
+  title: '企业服务 - RiGo | 定制化跨境电商解决方案',
+  description: 'RiGo 为大型企业提供定制化的跨境电商解决方案，包括定制开发、系统集成、专属服务等',
 })
 </script>

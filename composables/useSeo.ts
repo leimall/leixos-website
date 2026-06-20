@@ -6,8 +6,8 @@ export interface SeoMeta {
   canonical?: string
 }
 
-const DEFAULT_IMAGE = 'https://leixos.com/og-image.png'
-const SITE_URL = 'https://leixos.com'
+const DEFAULT_IMAGE = 'https://rigo.com/og-image.png'
+const SITE_URL = 'https://rigo.com'
 
 export const useSeo = () => {
   const route = useRoute()
@@ -26,7 +26,7 @@ export const useSeo = () => {
         { property: 'og:image', content: image },
         { property: 'og:type', content: type },
         { property: 'og:url', content: canonicalUrl },
-        { property: 'og:site_name', content: 'LeiMall' },
+        { property: 'og:site_name', content: 'RiGo' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: title },
         { name: 'twitter:description', content: description },

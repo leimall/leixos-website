@@ -19,7 +19,7 @@
             </div>
             <span 
               :class="['text-xl font-semibold', scrolled ? 'text-dark-gray' : 'text-white']"
-            >LeiMall</span>
+            >RiGo</span>
           </NuxtLink>
         </div>
 

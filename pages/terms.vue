@@ -96,7 +96,7 @@
           <div>
             <h2 class="text-2xl font-bold text-dark-gray mb-4">{{ t('termsPage.contact.title') }}</h2>
             <p class="text-mid-gray leading-relaxed">{{ t('termsPage.contact.content') }}</p>
-            <p class="text-primary font-semibold mt-4">legal@leixos.com</p>
+            <p class="text-primary font-semibold mt-4">legal@rigo.com</p>
           </div>
         </article>
       </div>
@@ -115,7 +115,7 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '服务条款 - LeiMall',
-  description: 'LeiMall 服务条款 - 使用我们的跨境电商SaaS服务前请仔细阅读以下条款',
+  title: '服务条款 - RiGo',
+  description: 'RiGo 服务条款 - 使用我们的跨境电商SaaS服务前请仔细阅读以下条款',
 })
 </script>

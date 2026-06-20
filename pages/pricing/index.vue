@@ -251,8 +251,8 @@ const { t } = useTranslation()
 const { setPageMeta } = useSeo()
 
 setPageMeta({
-  title: '定价方案 - LeiMall | 灵活透明的价格体系',
-  description: 'LeiMall 提供基础版、专业版、企业版三种灵活的定价方案，满足不同规模企业的出海需求',
+  title: '定价方案 - RiGo | 灵活透明的价格体系',
+  description: 'RiGo 提供基础版、专业版、企业版三种灵活的定价方案，满足不同规模企业的出海需求',
 })
 
 const openFaq = ref<number | null>(0)
